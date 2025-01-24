@@ -89,6 +89,16 @@ def add_custom_text_to_pdf(template_path, output_path, custom_data):
     can.drawString(270, 204, f"{custom_data['co2_capture']} kg pa *")
     can.drawString(270, 184, f"{custom_data['freshwater_produced']} L per annum")
 
+    # Watermark
+    can.setFont("Helvetica-Bold", 70)
+    can.saveState()
+    can.setFillColorRGB(245/255, 245/255, 220/255)
+    can.translate(200, 400)  # position
+    can.rotate(45)           # rotate 45'
+    can.drawString(0, 0, "sample only")  # Text
+    can.restoreState()
+        
+
     #generate_qr_code(custom_data['url'], qr_image_path)
     generate_qr_code(custom_data['url'], 'rgba_qr.png')
     can.drawImage(qr_image_path, qr_position[0], qr_position[1], width=100, height=100)  # Adjust width/height as needed
@@ -97,7 +107,7 @@ def add_custom_text_to_pdf(template_path, output_path, custom_data):
 
     can.save()
     
-    # Step 3: Merge the custom PDF with the template
+    # Merge the custom PDF with the template
     packet.seek(0)
     custom_pdf = PdfReader(packet)
     
