@@ -1,0 +1,1790 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Land parcel</name>
+    <Style id="poly-AFB42B-2000-77-normal">
+      <LineStyle>
+        <color>ff2bb4af</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d2bb4af</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-AFB42B-2000-77-highlight">
+      <LineStyle>
+        <color>ff2bb4af</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d2bb4af</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-AFB42B-2000-77">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-AFB42B-2000-77-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-AFB42B-2000-77-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name />
+      <description>description: &lt;br&gt;Lot: 1&lt;br&gt;Plan: RP807619&lt;br&gt;Lot/plan: 1RP807619&lt;br&gt;Lot area (m²): 22000&lt;br&gt;Excluded area (m²): 0&lt;br&gt;Lot volume: 0&lt;br&gt;Surveyed: Y&lt;br&gt;Tenure: Freehold&lt;br&gt;Parcel type: Lot Type Parcel&lt;br&gt;Coverage type: Base&lt;br&gt;Accuracy: UPGRADE ADJUSTMENT - 5M&lt;br&gt;st_area(shape): 0.000001875599181216936&lt;br&gt;st_perimeter(shape): 0.008015148444183955</description>
+      <styleUrl>#poly-AFB42B-2000-77</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value />
+        </Data>
+        <Data name="Lot">
+          <value>1</value>
+        </Data>
+        <Data name="Plan">
+          <value>RP807619</value>
+        </Data>
+        <Data name="Lot/plan">
+          <value>1RP807619</value>
+        </Data>
+        <Data name="Lot area (m²)">
+          <value>22000</value>
+        </Data>
+        <Data name="Excluded area (m²)">
+          <value>0</value>
+        </Data>
+        <Data name="Lot volume">
+          <value>0</value>
+        </Data>
+        <Data name="Surveyed">
+          <value>Y</value>
+        </Data>
+        <Data name="Tenure">
+          <value>Freehold</value>
+        </Data>
+        <Data name="Parcel type">
+          <value>Lot Type Parcel</value>
+        </Data>
+        <Data name="Coverage type">
+          <value>Base</value>
+        </Data>
+        <Data name="Accuracy">
+          <value>UPGRADE ADJUSTMENT - 5M</value>
+        </Data>
+        <Data name="st_area(shape)">
+          <value>0.000001875599181216936</value>
+        </Data>
+        <Data name="st_perimeter(shape)">
+          <value>0.008015148444183955</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              145.990976,-17.840433,0
+              145.99096,-17.841257,0
+              145.990607,-17.841939,0
+              145.990338,-17.842902,0
+              145.990189,-17.843917,0
+              145.990416,-17.843962,0
+              145.990816,-17.843335,0
+              145.991005,-17.842761,0
+              145.991273,-17.841817,0
+              145.99142,-17.841301,0
+              145.991482,-17.841084,0
+              145.991522,-17.840964,0
+              145.991478,-17.84053,0
+              145.990976,-17.840433,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  <Placemark><name>Square 1-1</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99037774173974,-17.84395301688825,0
+                145.99037774173974,-17.8439440337765,0
+                145.99038717882672,-17.8439440337765,0
+                145.99038717882672,-17.84395301688825,0
+                145.99037774173974,-17.84395301688825,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-2</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99038717882672,-17.84395301688825,0
+                145.99038717882672,-17.8439440337765,0
+                145.9903966159137,-17.8439440337765,0
+                145.9903966159137,-17.84395301688825,0
+                145.99038717882672,-17.84395301688825,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-3</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903966159137,-17.84395301688825,0
+                145.9903966159137,-17.8439440337765,0
+                145.9904060530007,-17.8439440337765,0
+                145.9904060530007,-17.84395301688825,0
+                145.9903966159137,-17.84395301688825,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-4</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9904060530007,-17.84395301688825,0
+                145.9904060530007,-17.8439440337765,0
+                145.99041549008768,-17.8439440337765,0
+                145.99041549008768,-17.84395301688825,0
+                145.9904060530007,-17.84395301688825,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-5</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903305563048,-17.8439440337765,0
+                145.9903305563048,-17.843935050664747,0
+                145.99033999339179,-17.843935050664747,0
+                145.99033999339179,-17.8439440337765,0
+                145.9903305563048,-17.8439440337765,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-6</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99033999339179,-17.8439440337765,0
+                145.99033999339179,-17.843935050664747,0
+                145.99034943047877,-17.843935050664747,0
+                145.99034943047877,-17.8439440337765,0
+                145.99033999339179,-17.8439440337765,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-7</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99034943047877,-17.8439440337765,0
+                145.99034943047877,-17.843935050664747,0
+                145.99035886756576,-17.843935050664747,0
+                145.99035886756576,-17.8439440337765,0
+                145.99034943047877,-17.8439440337765,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-8</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99035886756576,-17.8439440337765,0
+                145.99035886756576,-17.843935050664747,0
+                145.99036830465275,-17.843935050664747,0
+                145.99036830465275,-17.8439440337765,0
+                145.99035886756576,-17.8439440337765,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-9</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99036830465275,-17.8439440337765,0
+                145.99036830465275,-17.843935050664747,0
+                145.99037774173974,-17.843935050664747,0
+                145.99037774173974,-17.8439440337765,0
+                145.99036830465275,-17.8439440337765,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-10</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99037774173974,-17.8439440337765,0
+                145.99037774173974,-17.843935050664747,0
+                145.99038717882672,-17.843935050664747,0
+                145.99038717882672,-17.8439440337765,0
+                145.99037774173974,-17.8439440337765,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-11</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99038717882672,-17.8439440337765,0
+                145.99038717882672,-17.843935050664747,0
+                145.9903966159137,-17.843935050664747,0
+                145.9903966159137,-17.8439440337765,0
+                145.99038717882672,-17.8439440337765,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-12</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903966159137,-17.8439440337765,0
+                145.9903966159137,-17.843935050664747,0
+                145.9904060530007,-17.843935050664747,0
+                145.9904060530007,-17.8439440337765,0
+                145.9903966159137,-17.8439440337765,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-13</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9904060530007,-17.8439440337765,0
+                145.9904060530007,-17.843935050664747,0
+                145.99041549008768,-17.843935050664747,0
+                145.99041549008768,-17.8439440337765,0
+                145.9904060530007,-17.8439440337765,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-14</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99041549008768,-17.8439440337765,0
+                145.99041549008768,-17.843935050664747,0
+                145.99042492717467,-17.843935050664747,0
+                145.99042492717467,-17.8439440337765,0
+                145.99041549008768,-17.8439440337765,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-15</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99028337086986,-17.843935050664747,0
+                145.99028337086986,-17.843926067552996,0
+                145.99029280795685,-17.843926067552996,0
+                145.99029280795685,-17.843935050664747,0
+                145.99028337086986,-17.843935050664747,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-16</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99029280795685,-17.843935050664747,0
+                145.99029280795685,-17.843926067552996,0
+                145.99030224504384,-17.843926067552996,0
+                145.99030224504384,-17.843935050664747,0
+                145.99029280795685,-17.843935050664747,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-17</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99030224504384,-17.843935050664747,0
+                145.99030224504384,-17.843926067552996,0
+                145.99031168213082,-17.843926067552996,0
+                145.99031168213082,-17.843935050664747,0
+                145.99030224504384,-17.843935050664747,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-18</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99031168213082,-17.843935050664747,0
+                145.99031168213082,-17.843926067552996,0
+                145.9903211192178,-17.843926067552996,0
+                145.9903211192178,-17.843935050664747,0
+                145.99031168213082,-17.843935050664747,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-19</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903211192178,-17.843935050664747,0
+                145.9903211192178,-17.843926067552996,0
+                145.9903305563048,-17.843926067552996,0
+                145.9903305563048,-17.843935050664747,0
+                145.9903211192178,-17.843935050664747,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-20</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903305563048,-17.843935050664747,0
+                145.9903305563048,-17.843926067552996,0
+                145.99033999339179,-17.843926067552996,0
+                145.99033999339179,-17.843935050664747,0
+                145.9903305563048,-17.843935050664747,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-21</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99033999339179,-17.843935050664747,0
+                145.99033999339179,-17.843926067552996,0
+                145.99034943047877,-17.843926067552996,0
+                145.99034943047877,-17.843935050664747,0
+                145.99033999339179,-17.843935050664747,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-22</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99034943047877,-17.843935050664747,0
+                145.99034943047877,-17.843926067552996,0
+                145.99035886756576,-17.843926067552996,0
+                145.99035886756576,-17.843935050664747,0
+                145.99034943047877,-17.843935050664747,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-23</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99035886756576,-17.843935050664747,0
+                145.99035886756576,-17.843926067552996,0
+                145.99036830465275,-17.843926067552996,0
+                145.99036830465275,-17.843935050664747,0
+                145.99035886756576,-17.843935050664747,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-24</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99036830465275,-17.843935050664747,0
+                145.99036830465275,-17.843926067552996,0
+                145.99037774173974,-17.843926067552996,0
+                145.99037774173974,-17.843935050664747,0
+                145.99036830465275,-17.843935050664747,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-25</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99037774173974,-17.843935050664747,0
+                145.99037774173974,-17.843926067552996,0
+                145.99038717882672,-17.843926067552996,0
+                145.99038717882672,-17.843935050664747,0
+                145.99037774173974,-17.843935050664747,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-26</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99038717882672,-17.843935050664747,0
+                145.99038717882672,-17.843926067552996,0
+                145.9903966159137,-17.843926067552996,0
+                145.9903966159137,-17.843935050664747,0
+                145.99038717882672,-17.843935050664747,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-27</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903966159137,-17.843935050664747,0
+                145.9903966159137,-17.843926067552996,0
+                145.9904060530007,-17.843926067552996,0
+                145.9904060530007,-17.843935050664747,0
+                145.9903966159137,-17.843935050664747,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-28</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9904060530007,-17.843935050664747,0
+                145.9904060530007,-17.843926067552996,0
+                145.99041549008768,-17.843926067552996,0
+                145.99041549008768,-17.843935050664747,0
+                145.9904060530007,-17.843935050664747,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-29</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99041549008768,-17.843935050664747,0
+                145.99041549008768,-17.843926067552996,0
+                145.99042492717467,-17.843926067552996,0
+                145.99042492717467,-17.843935050664747,0
+                145.99041549008768,-17.843935050664747,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-30</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99023618543492,-17.843926067552996,0
+                145.99023618543492,-17.843917084441244,0
+                145.9902456225219,-17.843917084441244,0
+                145.9902456225219,-17.843926067552996,0
+                145.99023618543492,-17.843926067552996,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-31</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9902456225219,-17.843926067552996,0
+                145.9902456225219,-17.843917084441244,0
+                145.9902550596089,-17.843917084441244,0
+                145.9902550596089,-17.843926067552996,0
+                145.9902456225219,-17.843926067552996,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-32</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9902550596089,-17.843926067552996,0
+                145.9902550596089,-17.843917084441244,0
+                145.9902644966959,-17.843917084441244,0
+                145.9902644966959,-17.843926067552996,0
+                145.9902550596089,-17.843926067552996,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-33</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9902644966959,-17.843926067552996,0
+                145.9902644966959,-17.843917084441244,0
+                145.99027393378287,-17.843917084441244,0
+                145.99027393378287,-17.843926067552996,0
+                145.9902644966959,-17.843926067552996,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-34</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99027393378287,-17.843926067552996,0
+                145.99027393378287,-17.843917084441244,0
+                145.99028337086986,-17.843917084441244,0
+                145.99028337086986,-17.843926067552996,0
+                145.99027393378287,-17.843926067552996,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-35</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99028337086986,-17.843926067552996,0
+                145.99028337086986,-17.843917084441244,0
+                145.99029280795685,-17.843917084441244,0
+                145.99029280795685,-17.843926067552996,0
+                145.99028337086986,-17.843926067552996,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-36</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99029280795685,-17.843926067552996,0
+                145.99029280795685,-17.843917084441244,0
+                145.99030224504384,-17.843917084441244,0
+                145.99030224504384,-17.843926067552996,0
+                145.99029280795685,-17.843926067552996,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-37</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99030224504384,-17.843926067552996,0
+                145.99030224504384,-17.843917084441244,0
+                145.99031168213082,-17.843917084441244,0
+                145.99031168213082,-17.843926067552996,0
+                145.99030224504384,-17.843926067552996,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-38</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99031168213082,-17.843926067552996,0
+                145.99031168213082,-17.843917084441244,0
+                145.9903211192178,-17.843917084441244,0
+                145.9903211192178,-17.843926067552996,0
+                145.99031168213082,-17.843926067552996,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-39</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903211192178,-17.843926067552996,0
+                145.9903211192178,-17.843917084441244,0
+                145.9903305563048,-17.843917084441244,0
+                145.9903305563048,-17.843926067552996,0
+                145.9903211192178,-17.843926067552996,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-40</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903305563048,-17.843926067552996,0
+                145.9903305563048,-17.843917084441244,0
+                145.99033999339179,-17.843917084441244,0
+                145.99033999339179,-17.843926067552996,0
+                145.9903305563048,-17.843926067552996,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-41</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99033999339179,-17.843926067552996,0
+                145.99033999339179,-17.843917084441244,0
+                145.99034943047877,-17.843917084441244,0
+                145.99034943047877,-17.843926067552996,0
+                145.99033999339179,-17.843926067552996,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-42</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99034943047877,-17.843926067552996,0
+                145.99034943047877,-17.843917084441244,0
+                145.99035886756576,-17.843917084441244,0
+                145.99035886756576,-17.843926067552996,0
+                145.99034943047877,-17.843926067552996,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-43</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99035886756576,-17.843926067552996,0
+                145.99035886756576,-17.843917084441244,0
+                145.99036830465275,-17.843917084441244,0
+                145.99036830465275,-17.843926067552996,0
+                145.99035886756576,-17.843926067552996,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-44</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99036830465275,-17.843926067552996,0
+                145.99036830465275,-17.843917084441244,0
+                145.99037774173974,-17.843917084441244,0
+                145.99037774173974,-17.843926067552996,0
+                145.99036830465275,-17.843926067552996,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-45</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99037774173974,-17.843926067552996,0
+                145.99037774173974,-17.843917084441244,0
+                145.99038717882672,-17.843917084441244,0
+                145.99038717882672,-17.843926067552996,0
+                145.99037774173974,-17.843926067552996,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-46</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99038717882672,-17.843926067552996,0
+                145.99038717882672,-17.843917084441244,0
+                145.9903966159137,-17.843917084441244,0
+                145.9903966159137,-17.843926067552996,0
+                145.99038717882672,-17.843926067552996,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-47</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903966159137,-17.843926067552996,0
+                145.9903966159137,-17.843917084441244,0
+                145.9904060530007,-17.843917084441244,0
+                145.9904060530007,-17.843926067552996,0
+                145.9903966159137,-17.843926067552996,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-48</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9904060530007,-17.843926067552996,0
+                145.9904060530007,-17.843917084441244,0
+                145.99041549008768,-17.843917084441244,0
+                145.99041549008768,-17.843926067552996,0
+                145.9904060530007,-17.843926067552996,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-49</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99041549008768,-17.843926067552996,0
+                145.99041549008768,-17.843917084441244,0
+                145.99042492717467,-17.843917084441244,0
+                145.99042492717467,-17.843926067552996,0
+                145.99041549008768,-17.843926067552996,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-50</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99042492717467,-17.843926067552996,0
+                145.99042492717467,-17.843917084441244,0
+                145.99043436426166,-17.843917084441244,0
+                145.99043436426166,-17.843926067552996,0
+                145.99042492717467,-17.843926067552996,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-51</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99019843708697,-17.843917084441244,0
+                145.99019843708697,-17.843908101329493,0
+                145.99020787417396,-17.843908101329493,0
+                145.99020787417396,-17.843917084441244,0
+                145.99019843708697,-17.843917084441244,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-52</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99020787417396,-17.843917084441244,0
+                145.99020787417396,-17.843908101329493,0
+                145.99021731126095,-17.843908101329493,0
+                145.99021731126095,-17.843917084441244,0
+                145.99020787417396,-17.843917084441244,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-53</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99021731126095,-17.843917084441244,0
+                145.99021731126095,-17.843908101329493,0
+                145.99022674834794,-17.843908101329493,0
+                145.99022674834794,-17.843917084441244,0
+                145.99021731126095,-17.843917084441244,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-54</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99022674834794,-17.843917084441244,0
+                145.99022674834794,-17.843908101329493,0
+                145.99023618543492,-17.843908101329493,0
+                145.99023618543492,-17.843917084441244,0
+                145.99022674834794,-17.843917084441244,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-55</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99023618543492,-17.843917084441244,0
+                145.99023618543492,-17.843908101329493,0
+                145.9902456225219,-17.843908101329493,0
+                145.9902456225219,-17.843917084441244,0
+                145.99023618543492,-17.843917084441244,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-56</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9902456225219,-17.843917084441244,0
+                145.9902456225219,-17.843908101329493,0
+                145.9902550596089,-17.843908101329493,0
+                145.9902550596089,-17.843917084441244,0
+                145.9902456225219,-17.843917084441244,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-57</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9902550596089,-17.843917084441244,0
+                145.9902550596089,-17.843908101329493,0
+                145.9902644966959,-17.843908101329493,0
+                145.9902644966959,-17.843917084441244,0
+                145.9902550596089,-17.843917084441244,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-58</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9902644966959,-17.843917084441244,0
+                145.9902644966959,-17.843908101329493,0
+                145.99027393378287,-17.843908101329493,0
+                145.99027393378287,-17.843917084441244,0
+                145.9902644966959,-17.843917084441244,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-59</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99027393378287,-17.843917084441244,0
+                145.99027393378287,-17.843908101329493,0
+                145.99028337086986,-17.843908101329493,0
+                145.99028337086986,-17.843917084441244,0
+                145.99027393378287,-17.843917084441244,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-60</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99028337086986,-17.843917084441244,0
+                145.99028337086986,-17.843908101329493,0
+                145.99029280795685,-17.843908101329493,0
+                145.99029280795685,-17.843917084441244,0
+                145.99028337086986,-17.843917084441244,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-61</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99029280795685,-17.843917084441244,0
+                145.99029280795685,-17.843908101329493,0
+                145.99030224504384,-17.843908101329493,0
+                145.99030224504384,-17.843917084441244,0
+                145.99029280795685,-17.843917084441244,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-62</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99030224504384,-17.843917084441244,0
+                145.99030224504384,-17.843908101329493,0
+                145.99031168213082,-17.843908101329493,0
+                145.99031168213082,-17.843917084441244,0
+                145.99030224504384,-17.843917084441244,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-63</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99031168213082,-17.843917084441244,0
+                145.99031168213082,-17.843908101329493,0
+                145.9903211192178,-17.843908101329493,0
+                145.9903211192178,-17.843917084441244,0
+                145.99031168213082,-17.843917084441244,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-64</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903211192178,-17.843917084441244,0
+                145.9903211192178,-17.843908101329493,0
+                145.9903305563048,-17.843908101329493,0
+                145.9903305563048,-17.843917084441244,0
+                145.9903211192178,-17.843917084441244,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-65</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903305563048,-17.843917084441244,0
+                145.9903305563048,-17.843908101329493,0
+                145.99033999339179,-17.843908101329493,0
+                145.99033999339179,-17.843917084441244,0
+                145.9903305563048,-17.843917084441244,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-66</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99033999339179,-17.843917084441244,0
+                145.99033999339179,-17.843908101329493,0
+                145.99034943047877,-17.843908101329493,0
+                145.99034943047877,-17.843917084441244,0
+                145.99033999339179,-17.843917084441244,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-67</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99034943047877,-17.843917084441244,0
+                145.99034943047877,-17.843908101329493,0
+                145.99035886756576,-17.843908101329493,0
+                145.99035886756576,-17.843917084441244,0
+                145.99034943047877,-17.843917084441244,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-68</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99035886756576,-17.843917084441244,0
+                145.99035886756576,-17.843908101329493,0
+                145.99036830465275,-17.843908101329493,0
+                145.99036830465275,-17.843917084441244,0
+                145.99035886756576,-17.843917084441244,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-69</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99036830465275,-17.843917084441244,0
+                145.99036830465275,-17.843908101329493,0
+                145.99037774173974,-17.843908101329493,0
+                145.99037774173974,-17.843917084441244,0
+                145.99036830465275,-17.843917084441244,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-70</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99037774173974,-17.843917084441244,0
+                145.99037774173974,-17.843908101329493,0
+                145.99038717882672,-17.843908101329493,0
+                145.99038717882672,-17.843917084441244,0
+                145.99037774173974,-17.843917084441244,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-71</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99038717882672,-17.843917084441244,0
+                145.99038717882672,-17.843908101329493,0
+                145.9903966159137,-17.843908101329493,0
+                145.9903966159137,-17.843917084441244,0
+                145.99038717882672,-17.843917084441244,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-72</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903966159137,-17.843917084441244,0
+                145.9903966159137,-17.843908101329493,0
+                145.9904060530007,-17.843908101329493,0
+                145.9904060530007,-17.843917084441244,0
+                145.9903966159137,-17.843917084441244,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-73</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9904060530007,-17.843917084441244,0
+                145.9904060530007,-17.843908101329493,0
+                145.99041549008768,-17.843908101329493,0
+                145.99041549008768,-17.843917084441244,0
+                145.9904060530007,-17.843917084441244,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-74</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99041549008768,-17.843917084441244,0
+                145.99041549008768,-17.843908101329493,0
+                145.99042492717467,-17.843908101329493,0
+                145.99042492717467,-17.843917084441244,0
+                145.99041549008768,-17.843917084441244,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-75</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99042492717467,-17.843917084441244,0
+                145.99042492717467,-17.843908101329493,0
+                145.99043436426166,-17.843908101329493,0
+                145.99043436426166,-17.843917084441244,0
+                145.99042492717467,-17.843917084441244,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-76</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99043436426166,-17.843917084441244,0
+                145.99043436426166,-17.843908101329493,0
+                145.99044380134865,-17.843908101329493,0
+                145.99044380134865,-17.843917084441244,0
+                145.99043436426166,-17.843917084441244,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-77</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99019843708697,-17.843908101329493,0
+                145.99019843708697,-17.84389911821774,0
+                145.99020787417396,-17.84389911821774,0
+                145.99020787417396,-17.843908101329493,0
+                145.99019843708697,-17.843908101329493,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-78</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99020787417396,-17.843908101329493,0
+                145.99020787417396,-17.84389911821774,0
+                145.99021731126095,-17.84389911821774,0
+                145.99021731126095,-17.843908101329493,0
+                145.99020787417396,-17.843908101329493,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-79</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99021731126095,-17.843908101329493,0
+                145.99021731126095,-17.84389911821774,0
+                145.99022674834794,-17.84389911821774,0
+                145.99022674834794,-17.843908101329493,0
+                145.99021731126095,-17.843908101329493,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-80</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99022674834794,-17.843908101329493,0
+                145.99022674834794,-17.84389911821774,0
+                145.99023618543492,-17.84389911821774,0
+                145.99023618543492,-17.843908101329493,0
+                145.99022674834794,-17.843908101329493,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-81</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99023618543492,-17.843908101329493,0
+                145.99023618543492,-17.84389911821774,0
+                145.9902456225219,-17.84389911821774,0
+                145.9902456225219,-17.843908101329493,0
+                145.99023618543492,-17.843908101329493,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-82</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9902456225219,-17.843908101329493,0
+                145.9902456225219,-17.84389911821774,0
+                145.9902550596089,-17.84389911821774,0
+                145.9902550596089,-17.843908101329493,0
+                145.9902456225219,-17.843908101329493,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-83</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9902550596089,-17.843908101329493,0
+                145.9902550596089,-17.84389911821774,0
+                145.9902644966959,-17.84389911821774,0
+                145.9902644966959,-17.843908101329493,0
+                145.9902550596089,-17.843908101329493,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-84</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9902644966959,-17.843908101329493,0
+                145.9902644966959,-17.84389911821774,0
+                145.99027393378287,-17.84389911821774,0
+                145.99027393378287,-17.843908101329493,0
+                145.9902644966959,-17.843908101329493,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-85</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99027393378287,-17.843908101329493,0
+                145.99027393378287,-17.84389911821774,0
+                145.99028337086986,-17.84389911821774,0
+                145.99028337086986,-17.843908101329493,0
+                145.99027393378287,-17.843908101329493,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-86</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99028337086986,-17.843908101329493,0
+                145.99028337086986,-17.84389911821774,0
+                145.99029280795685,-17.84389911821774,0
+                145.99029280795685,-17.843908101329493,0
+                145.99028337086986,-17.843908101329493,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-87</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99029280795685,-17.843908101329493,0
+                145.99029280795685,-17.84389911821774,0
+                145.99030224504384,-17.84389911821774,0
+                145.99030224504384,-17.843908101329493,0
+                145.99029280795685,-17.843908101329493,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-88</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99030224504384,-17.843908101329493,0
+                145.99030224504384,-17.84389911821774,0
+                145.99031168213082,-17.84389911821774,0
+                145.99031168213082,-17.843908101329493,0
+                145.99030224504384,-17.843908101329493,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-89</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99031168213082,-17.843908101329493,0
+                145.99031168213082,-17.84389911821774,0
+                145.9903211192178,-17.84389911821774,0
+                145.9903211192178,-17.843908101329493,0
+                145.99031168213082,-17.843908101329493,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-90</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903211192178,-17.843908101329493,0
+                145.9903211192178,-17.84389911821774,0
+                145.9903305563048,-17.84389911821774,0
+                145.9903305563048,-17.843908101329493,0
+                145.9903211192178,-17.843908101329493,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-91</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903305563048,-17.843908101329493,0
+                145.9903305563048,-17.84389911821774,0
+                145.99033999339179,-17.84389911821774,0
+                145.99033999339179,-17.843908101329493,0
+                145.9903305563048,-17.843908101329493,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-92</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99033999339179,-17.843908101329493,0
+                145.99033999339179,-17.84389911821774,0
+                145.99034943047877,-17.84389911821774,0
+                145.99034943047877,-17.843908101329493,0
+                145.99033999339179,-17.843908101329493,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-93</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99034943047877,-17.843908101329493,0
+                145.99034943047877,-17.84389911821774,0
+                145.99035886756576,-17.84389911821774,0
+                145.99035886756576,-17.843908101329493,0
+                145.99034943047877,-17.843908101329493,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-94</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99035886756576,-17.843908101329493,0
+                145.99035886756576,-17.84389911821774,0
+                145.99036830465275,-17.84389911821774,0
+                145.99036830465275,-17.843908101329493,0
+                145.99035886756576,-17.843908101329493,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-95</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99036830465275,-17.843908101329493,0
+                145.99036830465275,-17.84389911821774,0
+                145.99037774173974,-17.84389911821774,0
+                145.99037774173974,-17.843908101329493,0
+                145.99036830465275,-17.843908101329493,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-96</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99037774173974,-17.843908101329493,0
+                145.99037774173974,-17.84389911821774,0
+                145.99038717882672,-17.84389911821774,0
+                145.99038717882672,-17.843908101329493,0
+                145.99037774173974,-17.843908101329493,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-97</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99038717882672,-17.843908101329493,0
+                145.99038717882672,-17.84389911821774,0
+                145.9903966159137,-17.84389911821774,0
+                145.9903966159137,-17.843908101329493,0
+                145.99038717882672,-17.843908101329493,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-98</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903966159137,-17.843908101329493,0
+                145.9903966159137,-17.84389911821774,0
+                145.9904060530007,-17.84389911821774,0
+                145.9904060530007,-17.843908101329493,0
+                145.9903966159137,-17.843908101329493,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-99</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9904060530007,-17.843908101329493,0
+                145.9904060530007,-17.84389911821774,0
+                145.99041549008768,-17.84389911821774,0
+                145.99041549008768,-17.843908101329493,0
+                145.9904060530007,-17.843908101329493,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-100</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99041549008768,-17.843908101329493,0
+                145.99041549008768,-17.84389911821774,0
+                145.99042492717467,-17.84389911821774,0
+                145.99042492717467,-17.843908101329493,0
+                145.99041549008768,-17.843908101329493,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-1</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99023618543492,-17.843863185770743,0
+                145.99023618543492,-17.843818270211994,0
+                145.99028337086986,-17.843818270211994,0
+                145.99028337086986,-17.843863185770743,0
+                145.99023618543492,-17.843863185770743,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-2</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99028337086986,-17.843863185770743,0
+                145.99028337086986,-17.843818270211994,0
+                145.9903305563048,-17.843818270211994,0
+                145.9903305563048,-17.843863185770743,0
+                145.99028337086986,-17.843863185770743,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-3</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903305563048,-17.843863185770743,0
+                145.9903305563048,-17.843818270211994,0
+                145.99037774173974,-17.843818270211994,0
+                145.99037774173974,-17.843863185770743,0
+                145.9903305563048,-17.843863185770743,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-4</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99037774173974,-17.843863185770743,0
+                145.99037774173974,-17.843818270211994,0
+                145.99042492717467,-17.843818270211994,0
+                145.99042492717467,-17.843863185770743,0
+                145.99037774173974,-17.843863185770743,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-5</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99042492717467,-17.843863185770743,0
+                145.99042492717467,-17.843818270211994,0
+                145.9904721126096,-17.843818270211994,0
+                145.9904721126096,-17.843863185770743,0
+                145.99042492717467,-17.843863185770743,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-6</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99023618543492,-17.843818270211994,0
+                145.99023618543492,-17.843773354653244,0
+                145.99028337086986,-17.843773354653244,0
+                145.99028337086986,-17.843818270211994,0
+                145.99023618543492,-17.843818270211994,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-7</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99028337086986,-17.843818270211994,0
+                145.99028337086986,-17.843773354653244,0
+                145.9903305563048,-17.843773354653244,0
+                145.9903305563048,-17.843818270211994,0
+                145.99028337086986,-17.843818270211994,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-8</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903305563048,-17.843818270211994,0
+                145.9903305563048,-17.843773354653244,0
+                145.99037774173974,-17.843773354653244,0
+                145.99037774173974,-17.843818270211994,0
+                145.9903305563048,-17.843818270211994,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-9</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99037774173974,-17.843818270211994,0
+                145.99037774173974,-17.843773354653244,0
+                145.99042492717467,-17.843773354653244,0
+                145.99042492717467,-17.843818270211994,0
+                145.99037774173974,-17.843818270211994,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-10</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99042492717467,-17.843818270211994,0
+                145.99042492717467,-17.843773354653244,0
+                145.9904721126096,-17.843773354653244,0
+                145.9904721126096,-17.843818270211994,0
+                145.99042492717467,-17.843818270211994,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-11</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99023618543492,-17.843773354653244,0
+                145.99023618543492,-17.843728439094495,0
+                145.99028337086986,-17.843728439094495,0
+                145.99028337086986,-17.843773354653244,0
+                145.99023618543492,-17.843773354653244,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-12</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99028337086986,-17.843773354653244,0
+                145.99028337086986,-17.843728439094495,0
+                145.9903305563048,-17.843728439094495,0
+                145.9903305563048,-17.843773354653244,0
+                145.99028337086986,-17.843773354653244,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-13</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903305563048,-17.843773354653244,0
+                145.9903305563048,-17.843728439094495,0
+                145.99037774173974,-17.843728439094495,0
+                145.99037774173974,-17.843773354653244,0
+                145.9903305563048,-17.843773354653244,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-14</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99037774173974,-17.843773354653244,0
+                145.99037774173974,-17.843728439094495,0
+                145.99042492717467,-17.843728439094495,0
+                145.99042492717467,-17.843773354653244,0
+                145.99037774173974,-17.843773354653244,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-15</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99042492717467,-17.843773354653244,0
+                145.99042492717467,-17.843728439094495,0
+                145.9904721126096,-17.843728439094495,0
+                145.9904721126096,-17.843773354653244,0
+                145.99042492717467,-17.843773354653244,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-16</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9904721126096,-17.843773354653244,0
+                145.9904721126096,-17.843728439094495,0
+                145.99051929804455,-17.843728439094495,0
+                145.99051929804455,-17.843773354653244,0
+                145.9904721126096,-17.843773354653244,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-17</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99023618543492,-17.843728439094495,0
+                145.99023618543492,-17.843683523535745,0
+                145.99028337086986,-17.843683523535745,0
+                145.99028337086986,-17.843728439094495,0
+                145.99023618543492,-17.843728439094495,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-18</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99028337086986,-17.843728439094495,0
+                145.99028337086986,-17.843683523535745,0
+                145.9903305563048,-17.843683523535745,0
+                145.9903305563048,-17.843728439094495,0
+                145.99028337086986,-17.843728439094495,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-19</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903305563048,-17.843728439094495,0
+                145.9903305563048,-17.843683523535745,0
+                145.99037774173974,-17.843683523535745,0
+                145.99037774173974,-17.843728439094495,0
+                145.9903305563048,-17.843728439094495,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-20</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99037774173974,-17.843728439094495,0
+                145.99037774173974,-17.843683523535745,0
+                145.99042492717467,-17.843683523535745,0
+                145.99042492717467,-17.843728439094495,0
+                145.99037774173974,-17.843728439094495,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-21</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99042492717467,-17.843728439094495,0
+                145.99042492717467,-17.843683523535745,0
+                145.9904721126096,-17.843683523535745,0
+                145.9904721126096,-17.843728439094495,0
+                145.99042492717467,-17.843728439094495,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-22</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9904721126096,-17.843728439094495,0
+                145.9904721126096,-17.843683523535745,0
+                145.99051929804455,-17.843683523535745,0
+                145.99051929804455,-17.843728439094495,0
+                145.9904721126096,-17.843728439094495,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-23</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99023618543492,-17.843683523535745,0
+                145.99023618543492,-17.843638607976995,0
+                145.99028337086986,-17.843638607976995,0
+                145.99028337086986,-17.843683523535745,0
+                145.99023618543492,-17.843683523535745,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-24</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99028337086986,-17.843683523535745,0
+                145.99028337086986,-17.843638607976995,0
+                145.9903305563048,-17.843638607976995,0
+                145.9903305563048,-17.843683523535745,0
+                145.99028337086986,-17.843683523535745,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-25</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903305563048,-17.843683523535745,0
+                145.9903305563048,-17.843638607976995,0
+                145.99037774173974,-17.843638607976995,0
+                145.99037774173974,-17.843683523535745,0
+                145.9903305563048,-17.843683523535745,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-26</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99037774173974,-17.843683523535745,0
+                145.99037774173974,-17.843638607976995,0
+                145.99042492717467,-17.843638607976995,0
+                145.99042492717467,-17.843683523535745,0
+                145.99037774173974,-17.843683523535745,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-27</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99042492717467,-17.843683523535745,0
+                145.99042492717467,-17.843638607976995,0
+                145.9904721126096,-17.843638607976995,0
+                145.9904721126096,-17.843683523535745,0
+                145.99042492717467,-17.843683523535745,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-28</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9904721126096,-17.843683523535745,0
+                145.9904721126096,-17.843638607976995,0
+                145.99051929804455,-17.843638607976995,0
+                145.99051929804455,-17.843683523535745,0
+                145.9904721126096,-17.843683523535745,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-29</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99051929804455,-17.843683523535745,0
+                145.99051929804455,-17.843638607976995,0
+                145.99056648347948,-17.843638607976995,0
+                145.99056648347948,-17.843683523535745,0
+                145.99051929804455,-17.843683523535745,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-30</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99028337086986,-17.843638607976995,0
+                145.99028337086986,-17.843593692418246,0
+                145.9903305563048,-17.843593692418246,0
+                145.9903305563048,-17.843638607976995,0
+                145.99028337086986,-17.843638607976995,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-31</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903305563048,-17.843638607976995,0
+                145.9903305563048,-17.843593692418246,0
+                145.99037774173974,-17.843593692418246,0
+                145.99037774173974,-17.843638607976995,0
+                145.9903305563048,-17.843638607976995,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-32</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99037774173974,-17.843638607976995,0
+                145.99037774173974,-17.843593692418246,0
+                145.99042492717467,-17.843593692418246,0
+                145.99042492717467,-17.843638607976995,0
+                145.99037774173974,-17.843638607976995,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-33</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99042492717467,-17.843638607976995,0
+                145.99042492717467,-17.843593692418246,0
+                145.9904721126096,-17.843593692418246,0
+                145.9904721126096,-17.843638607976995,0
+                145.99042492717467,-17.843638607976995,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-34</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9904721126096,-17.843638607976995,0
+                145.9904721126096,-17.843593692418246,0
+                145.99051929804455,-17.843593692418246,0
+                145.99051929804455,-17.843638607976995,0
+                145.9904721126096,-17.843638607976995,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-35</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99051929804455,-17.843638607976995,0
+                145.99051929804455,-17.843593692418246,0
+                145.99056648347948,-17.843593692418246,0
+                145.99056648347948,-17.843638607976995,0
+                145.99051929804455,-17.843638607976995,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-36</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99056648347948,-17.843638607976995,0
+                145.99056648347948,-17.843593692418246,0
+                145.99061366891442,-17.843593692418246,0
+                145.99061366891442,-17.843638607976995,0
+                145.99056648347948,-17.843638607976995,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-37</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99028337086986,-17.843593692418246,0
+                145.99028337086986,-17.843548776859496,0
+                145.9903305563048,-17.843548776859496,0
+                145.9903305563048,-17.843593692418246,0
+                145.99028337086986,-17.843593692418246,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-38</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903305563048,-17.843593692418246,0
+                145.9903305563048,-17.843548776859496,0
+                145.99037774173974,-17.843548776859496,0
+                145.99037774173974,-17.843593692418246,0
+                145.9903305563048,-17.843593692418246,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-39</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99037774173974,-17.843593692418246,0
+                145.99037774173974,-17.843548776859496,0
+                145.99042492717467,-17.843548776859496,0
+                145.99042492717467,-17.843593692418246,0
+                145.99037774173974,-17.843593692418246,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-40</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99042492717467,-17.843593692418246,0
+                145.99042492717467,-17.843548776859496,0
+                145.9904721126096,-17.843548776859496,0
+                145.9904721126096,-17.843593692418246,0
+                145.99042492717467,-17.843593692418246,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-41</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9904721126096,-17.843593692418246,0
+                145.9904721126096,-17.843548776859496,0
+                145.99051929804455,-17.843548776859496,0
+                145.99051929804455,-17.843593692418246,0
+                145.9904721126096,-17.843593692418246,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-42</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99051929804455,-17.843593692418246,0
+                145.99051929804455,-17.843548776859496,0
+                145.99056648347948,-17.843548776859496,0
+                145.99056648347948,-17.843593692418246,0
+                145.99051929804455,-17.843593692418246,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-43</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99056648347948,-17.843593692418246,0
+                145.99056648347948,-17.843548776859496,0
+                145.99061366891442,-17.843548776859496,0
+                145.99061366891442,-17.843593692418246,0
+                145.99056648347948,-17.843593692418246,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-44</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99028337086986,-17.843548776859496,0
+                145.99028337086986,-17.843503861300746,0
+                145.9903305563048,-17.843503861300746,0
+                145.9903305563048,-17.843548776859496,0
+                145.99028337086986,-17.843548776859496,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-45</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903305563048,-17.843548776859496,0
+                145.9903305563048,-17.843503861300746,0
+                145.99037774173974,-17.843503861300746,0
+                145.99037774173974,-17.843548776859496,0
+                145.9903305563048,-17.843548776859496,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-46</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99037774173974,-17.843548776859496,0
+                145.99037774173974,-17.843503861300746,0
+                145.99042492717467,-17.843503861300746,0
+                145.99042492717467,-17.843548776859496,0
+                145.99037774173974,-17.843548776859496,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-47</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99042492717467,-17.843548776859496,0
+                145.99042492717467,-17.843503861300746,0
+                145.9904721126096,-17.843503861300746,0
+                145.9904721126096,-17.843548776859496,0
+                145.99042492717467,-17.843548776859496,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-48</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9904721126096,-17.843548776859496,0
+                145.9904721126096,-17.843503861300746,0
+                145.99051929804455,-17.843503861300746,0
+                145.99051929804455,-17.843548776859496,0
+                145.9904721126096,-17.843548776859496,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-49</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99051929804455,-17.843548776859496,0
+                145.99051929804455,-17.843503861300746,0
+                145.99056648347948,-17.843503861300746,0
+                145.99056648347948,-17.843548776859496,0
+                145.99051929804455,-17.843548776859496,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-50</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99056648347948,-17.843548776859496,0
+                145.99056648347948,-17.843503861300746,0
+                145.99061366891442,-17.843503861300746,0
+                145.99061366891442,-17.843548776859496,0
+                145.99056648347948,-17.843548776859496,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-51</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99061366891442,-17.843548776859496,0
+                145.99061366891442,-17.843503861300746,0
+                145.99066085434936,-17.843503861300746,0
+                145.99066085434936,-17.843548776859496,0
+                145.99061366891442,-17.843548776859496,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-52</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99028337086986,-17.843503861300746,0
+                145.99028337086986,-17.843458945741997,0
+                145.9903305563048,-17.843458945741997,0
+                145.9903305563048,-17.843503861300746,0
+                145.99028337086986,-17.843503861300746,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-53</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903305563048,-17.843503861300746,0
+                145.9903305563048,-17.843458945741997,0
+                145.99037774173974,-17.843458945741997,0
+                145.99037774173974,-17.843503861300746,0
+                145.9903305563048,-17.843503861300746,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-54</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99037774173974,-17.843503861300746,0
+                145.99037774173974,-17.843458945741997,0
+                145.99042492717467,-17.843458945741997,0
+                145.99042492717467,-17.843503861300746,0
+                145.99037774173974,-17.843503861300746,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-55</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99042492717467,-17.843503861300746,0
+                145.99042492717467,-17.843458945741997,0
+                145.9904721126096,-17.843458945741997,0
+                145.9904721126096,-17.843503861300746,0
+                145.99042492717467,-17.843503861300746,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-56</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9904721126096,-17.843503861300746,0
+                145.9904721126096,-17.843458945741997,0
+                145.99051929804455,-17.843458945741997,0
+                145.99051929804455,-17.843503861300746,0
+                145.9904721126096,-17.843503861300746,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-57</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99051929804455,-17.843503861300746,0
+                145.99051929804455,-17.843458945741997,0
+                145.99056648347948,-17.843458945741997,0
+                145.99056648347948,-17.843503861300746,0
+                145.99051929804455,-17.843503861300746,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-58</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99056648347948,-17.843503861300746,0
+                145.99056648347948,-17.843458945741997,0
+                145.99061366891442,-17.843458945741997,0
+                145.99061366891442,-17.843503861300746,0
+                145.99056648347948,-17.843503861300746,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-59</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99061366891442,-17.843503861300746,0
+                145.99061366891442,-17.843458945741997,0
+                145.99066085434936,-17.843458945741997,0
+                145.99066085434936,-17.843503861300746,0
+                145.99061366891442,-17.843503861300746,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-60</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99066085434936,-17.843503861300746,0
+                145.99066085434936,-17.843458945741997,0
+                145.9907080397843,-17.843458945741997,0
+                145.9907080397843,-17.843503861300746,0
+                145.99066085434936,-17.843503861300746,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-61</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99028337086986,-17.843458945741997,0
+                145.99028337086986,-17.843414030183247,0
+                145.9903305563048,-17.843414030183247,0
+                145.9903305563048,-17.843458945741997,0
+                145.99028337086986,-17.843458945741997,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-62</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903305563048,-17.843458945741997,0
+                145.9903305563048,-17.843414030183247,0
+                145.99037774173974,-17.843414030183247,0
+                145.99037774173974,-17.843458945741997,0
+                145.9903305563048,-17.843458945741997,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-63</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99037774173974,-17.843458945741997,0
+                145.99037774173974,-17.843414030183247,0
+                145.99042492717467,-17.843414030183247,0
+                145.99042492717467,-17.843458945741997,0
+                145.99037774173974,-17.843458945741997,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-64</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99042492717467,-17.843458945741997,0
+                145.99042492717467,-17.843414030183247,0
+                145.9904721126096,-17.843414030183247,0
+                145.9904721126096,-17.843458945741997,0
+                145.99042492717467,-17.843458945741997,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-65</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9904721126096,-17.843458945741997,0
+                145.9904721126096,-17.843414030183247,0
+                145.99051929804455,-17.843414030183247,0
+                145.99051929804455,-17.843458945741997,0
+                145.9904721126096,-17.843458945741997,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-66</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99051929804455,-17.843458945741997,0
+                145.99051929804455,-17.843414030183247,0
+                145.99056648347948,-17.843414030183247,0
+                145.99056648347948,-17.843458945741997,0
+                145.99051929804455,-17.843458945741997,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-67</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99056648347948,-17.843458945741997,0
+                145.99056648347948,-17.843414030183247,0
+                145.99061366891442,-17.843414030183247,0
+                145.99061366891442,-17.843458945741997,0
+                145.99056648347948,-17.843458945741997,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-68</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99061366891442,-17.843458945741997,0
+                145.99061366891442,-17.843414030183247,0
+                145.99066085434936,-17.843414030183247,0
+                145.99066085434936,-17.843458945741997,0
+                145.99061366891442,-17.843458945741997,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-69</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99066085434936,-17.843458945741997,0
+                145.99066085434936,-17.843414030183247,0
+                145.9907080397843,-17.843414030183247,0
+                145.9907080397843,-17.843458945741997,0
+                145.99066085434936,-17.843458945741997,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-70</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99028337086986,-17.843414030183247,0
+                145.99028337086986,-17.843369114624497,0
+                145.9903305563048,-17.843369114624497,0
+                145.9903305563048,-17.843414030183247,0
+                145.99028337086986,-17.843414030183247,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-71</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903305563048,-17.843414030183247,0
+                145.9903305563048,-17.843369114624497,0
+                145.99037774173974,-17.843369114624497,0
+                145.99037774173974,-17.843414030183247,0
+                145.9903305563048,-17.843414030183247,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-72</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99037774173974,-17.843414030183247,0
+                145.99037774173974,-17.843369114624497,0
+                145.99042492717467,-17.843369114624497,0
+                145.99042492717467,-17.843414030183247,0
+                145.99037774173974,-17.843414030183247,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-73</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99042492717467,-17.843414030183247,0
+                145.99042492717467,-17.843369114624497,0
+                145.9904721126096,-17.843369114624497,0
+                145.9904721126096,-17.843414030183247,0
+                145.99042492717467,-17.843414030183247,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-74</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9904721126096,-17.843414030183247,0
+                145.9904721126096,-17.843369114624497,0
+                145.99051929804455,-17.843369114624497,0
+                145.99051929804455,-17.843414030183247,0
+                145.9904721126096,-17.843414030183247,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-75</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99051929804455,-17.843414030183247,0
+                145.99051929804455,-17.843369114624497,0
+                145.99056648347948,-17.843369114624497,0
+                145.99056648347948,-17.843414030183247,0
+                145.99051929804455,-17.843414030183247,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-76</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99056648347948,-17.843414030183247,0
+                145.99056648347948,-17.843369114624497,0
+                145.99061366891442,-17.843369114624497,0
+                145.99061366891442,-17.843414030183247,0
+                145.99056648347948,-17.843414030183247,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-77</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99061366891442,-17.843414030183247,0
+                145.99061366891442,-17.843369114624497,0
+                145.99066085434936,-17.843369114624497,0
+                145.99066085434936,-17.843414030183247,0
+                145.99061366891442,-17.843414030183247,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-78</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99066085434936,-17.843414030183247,0
+                145.99066085434936,-17.843369114624497,0
+                145.9907080397843,-17.843369114624497,0
+                145.9907080397843,-17.843414030183247,0
+                145.99066085434936,-17.843414030183247,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-79</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9907080397843,-17.843414030183247,0
+                145.9907080397843,-17.843369114624497,0
+                145.99075522521923,-17.843369114624497,0
+                145.99075522521923,-17.843414030183247,0
+                145.9907080397843,-17.843414030183247,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-80</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99028337086986,-17.843369114624497,0
+                145.99028337086986,-17.843324199065748,0
+                145.9903305563048,-17.843324199065748,0
+                145.9903305563048,-17.843369114624497,0
+                145.99028337086986,-17.843369114624497,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-81</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903305563048,-17.843369114624497,0
+                145.9903305563048,-17.843324199065748,0
+                145.99037774173974,-17.843324199065748,0
+                145.99037774173974,-17.843369114624497,0
+                145.9903305563048,-17.843369114624497,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-82</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99037774173974,-17.843369114624497,0
+                145.99037774173974,-17.843324199065748,0
+                145.99042492717467,-17.843324199065748,0
+                145.99042492717467,-17.843369114624497,0
+                145.99037774173974,-17.843369114624497,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-83</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99042492717467,-17.843369114624497,0
+                145.99042492717467,-17.843324199065748,0
+                145.9904721126096,-17.843324199065748,0
+                145.9904721126096,-17.843369114624497,0
+                145.99042492717467,-17.843369114624497,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-84</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9904721126096,-17.843369114624497,0
+                145.9904721126096,-17.843324199065748,0
+                145.99051929804455,-17.843324199065748,0
+                145.99051929804455,-17.843369114624497,0
+                145.9904721126096,-17.843369114624497,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-85</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99051929804455,-17.843369114624497,0
+                145.99051929804455,-17.843324199065748,0
+                145.99056648347948,-17.843324199065748,0
+                145.99056648347948,-17.843369114624497,0
+                145.99051929804455,-17.843369114624497,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-86</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99056648347948,-17.843369114624497,0
+                145.99056648347948,-17.843324199065748,0
+                145.99061366891442,-17.843324199065748,0
+                145.99061366891442,-17.843369114624497,0
+                145.99056648347948,-17.843369114624497,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-87</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99061366891442,-17.843369114624497,0
+                145.99061366891442,-17.843324199065748,0
+                145.99066085434936,-17.843324199065748,0
+                145.99066085434936,-17.843369114624497,0
+                145.99061366891442,-17.843369114624497,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-88</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99066085434936,-17.843369114624497,0
+                145.99066085434936,-17.843324199065748,0
+                145.9907080397843,-17.843324199065748,0
+                145.9907080397843,-17.843369114624497,0
+                145.99066085434936,-17.843369114624497,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-89</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9907080397843,-17.843369114624497,0
+                145.9907080397843,-17.843324199065748,0
+                145.99075522521923,-17.843324199065748,0
+                145.99075522521923,-17.843369114624497,0
+                145.9907080397843,-17.843369114624497,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-90</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99028337086986,-17.843324199065748,0
+                145.99028337086986,-17.843279283506998,0
+                145.9903305563048,-17.843279283506998,0
+                145.9903305563048,-17.843324199065748,0
+                145.99028337086986,-17.843324199065748,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-91</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903305563048,-17.843324199065748,0
+                145.9903305563048,-17.843279283506998,0
+                145.99037774173974,-17.843279283506998,0
+                145.99037774173974,-17.843324199065748,0
+                145.9903305563048,-17.843324199065748,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-92</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99037774173974,-17.843324199065748,0
+                145.99037774173974,-17.843279283506998,0
+                145.99042492717467,-17.843279283506998,0
+                145.99042492717467,-17.843324199065748,0
+                145.99037774173974,-17.843324199065748,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-93</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99042492717467,-17.843324199065748,0
+                145.99042492717467,-17.843279283506998,0
+                145.9904721126096,-17.843279283506998,0
+                145.9904721126096,-17.843324199065748,0
+                145.99042492717467,-17.843324199065748,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-94</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9904721126096,-17.843324199065748,0
+                145.9904721126096,-17.843279283506998,0
+                145.99051929804455,-17.843279283506998,0
+                145.99051929804455,-17.843324199065748,0
+                145.9904721126096,-17.843324199065748,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-95</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99051929804455,-17.843324199065748,0
+                145.99051929804455,-17.843279283506998,0
+                145.99056648347948,-17.843279283506998,0
+                145.99056648347948,-17.843324199065748,0
+                145.99051929804455,-17.843324199065748,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-96</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99056648347948,-17.843324199065748,0
+                145.99056648347948,-17.843279283506998,0
+                145.99061366891442,-17.843279283506998,0
+                145.99061366891442,-17.843324199065748,0
+                145.99056648347948,-17.843324199065748,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-97</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99061366891442,-17.843324199065748,0
+                145.99061366891442,-17.843279283506998,0
+                145.99066085434936,-17.843279283506998,0
+                145.99066085434936,-17.843324199065748,0
+                145.99061366891442,-17.843324199065748,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-98</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99066085434936,-17.843324199065748,0
+                145.99066085434936,-17.843279283506998,0
+                145.9907080397843,-17.843279283506998,0
+                145.9907080397843,-17.843324199065748,0
+                145.99066085434936,-17.843324199065748,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-99</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9907080397843,-17.843324199065748,0
+                145.9907080397843,-17.843279283506998,0
+                145.99075522521923,-17.843279283506998,0
+                145.99075522521923,-17.843324199065748,0
+                145.9907080397843,-17.843324199065748,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-100</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99075522521923,-17.843324199065748,0
+                145.99075522521923,-17.843279283506998,0
+                145.99080241065417,-17.843279283506998,0
+                145.99080241065417,-17.843324199065748,0
+                145.99075522521923,-17.843324199065748,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 100-1</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903777417398,-17.84323436794825,0
+                145.9903777417398,-17.84314453683075,0
+                145.9904721126097,-17.84314453683075,0
+                145.9904721126097,-17.84323436794825,0
+                145.9903777417398,-17.84323436794825,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 100-2</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9904721126097,-17.84323436794825,0
+                145.9904721126097,-17.84314453683075,0
+                145.9905664834796,-17.84314453683075,0
+                145.9905664834796,-17.84323436794825,0
+                145.9904721126097,-17.84323436794825,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 100-3</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9905664834796,-17.84323436794825,0
+                145.9905664834796,-17.84314453683075,0
+                145.9906608543495,-17.84314453683075,0
+                145.9906608543495,-17.84323436794825,0
+                145.9905664834796,-17.84323436794825,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 100-4</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9906608543495,-17.84323436794825,0
+                145.9906608543495,-17.84314453683075,0
+                145.9907552252194,-17.84314453683075,0
+                145.9907552252194,-17.84323436794825,0
+                145.9906608543495,-17.84323436794825,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 100-5</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903777417398,-17.84314453683075,0
+                145.9903777417398,-17.84305470571325,0
+                145.9904721126097,-17.84305470571325,0
+                145.9904721126097,-17.84314453683075,0
+                145.9903777417398,-17.84314453683075,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 100-6</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9904721126097,-17.84314453683075,0
+                145.9904721126097,-17.84305470571325,0
+                145.9905664834796,-17.84305470571325,0
+                145.9905664834796,-17.84314453683075,0
+                145.9904721126097,-17.84314453683075,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 100-7</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9905664834796,-17.84314453683075,0
+                145.9905664834796,-17.84305470571325,0
+                145.9906608543495,-17.84305470571325,0
+                145.9906608543495,-17.84314453683075,0
+                145.9905664834796,-17.84314453683075,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 100-8</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9906608543495,-17.84314453683075,0
+                145.9906608543495,-17.84305470571325,0
+                145.9907552252194,-17.84305470571325,0
+                145.9907552252194,-17.84314453683075,0
+                145.9906608543495,-17.84314453683075,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 100-9</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9907552252194,-17.84314453683075,0
+                145.9907552252194,-17.84305470571325,0
+                145.9908495960893,-17.84305470571325,0
+                145.9908495960893,-17.84314453683075,0
+                145.9907552252194,-17.84314453683075,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 100-10</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903777417398,-17.84305470571325,0
+                145.9903777417398,-17.84296487459575,0
+                145.9904721126097,-17.84296487459575,0
+                145.9904721126097,-17.84305470571325,0
+                145.9903777417398,-17.84305470571325,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-1</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903777417398,-17.84395301688825,0
+            145.9903777417398,-17.8439440337765,0
+            145.99038717882678,-17.8439440337765,0
+            145.99038717882678,-17.84395301688825,0
+            145.9903777417398,-17.84395301688825,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-2</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99038717882678,-17.84395301688825,0
+            145.99038717882678,-17.8439440337765,0
+            145.99039661591377,-17.8439440337765,0
+            145.99039661591377,-17.84395301688825,0
+            145.99038717882678,-17.84395301688825,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-3</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99039661591377,-17.84395301688825,0
+            145.99039661591377,-17.8439440337765,0
+            145.99040605300075,-17.8439440337765,0
+            145.99040605300075,-17.84395301688825,0
+            145.99039661591377,-17.84395301688825,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-4</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99040605300075,-17.84395301688825,0
+            145.99040605300075,-17.8439440337765,0
+            145.99041549008774,-17.8439440337765,0
+            145.99041549008774,-17.84395301688825,0
+            145.99040605300075,-17.84395301688825,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-5</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99033055630483,-17.843944033776502,0
+            145.99033055630483,-17.84393505066475,0
+            145.9903399933918,-17.84393505066475,0
+            145.9903399933918,-17.843944033776502,0
+            145.99033055630483,-17.843944033776502,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-6</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903399933918,-17.843944033776502,0
+            145.9903399933918,-17.84393505066475,0
+            145.9903494304788,-17.84393505066475,0
+            145.9903494304788,-17.843944033776502,0
+            145.9903399933918,-17.843944033776502,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-7</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903494304788,-17.843944033776502,0
+            145.9903494304788,-17.84393505066475,0
+            145.9903588675658,-17.84393505066475,0
+            145.9903588675658,-17.843944033776502,0
+            145.9903494304788,-17.843944033776502,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-8</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99035886756582,-17.843944033776502,0
+            145.99035886756582,-17.84393505066475,0
+            145.9903683046528,-17.84393505066475,0
+            145.9903683046528,-17.843944033776502,0
+            145.99035886756582,-17.843944033776502,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-9</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903683046528,-17.843944033776502,0
+            145.9903683046528,-17.84393505066475,0
+            145.9903777417398,-17.84393505066475,0
+            145.9903777417398,-17.843944033776502,0
+            145.9903683046528,-17.843944033776502,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-10</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903777417398,-17.843944033776502,0
+            145.9903777417398,-17.84393505066475,0
+            145.99038717882678,-17.84393505066475,0
+            145.99038717882678,-17.843944033776502,0
+            145.9903777417398,-17.843944033776502,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-11</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99038717882678,-17.843944033776502,0
+            145.99038717882678,-17.84393505066475,0
+            145.99039661591377,-17.84393505066475,0
+            145.99039661591377,-17.843944033776502,0
+            145.99038717882678,-17.843944033776502,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-12</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99039661591377,-17.843944033776502,0
+            145.99039661591377,-17.84393505066475,0
+            145.99040605300075,-17.84393505066475,0
+            145.99040605300075,-17.843944033776502,0
+            145.99039661591377,-17.843944033776502,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-13</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99040605300075,-17.843944033776502,0
+            145.99040605300075,-17.84393505066475,0
+            145.99041549008774,-17.84393505066475,0
+            145.99041549008774,-17.843944033776502,0
+            145.99040605300075,-17.843944033776502,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-14</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99041549008774,-17.843944033776502,0
+            145.99041549008774,-17.84393505066475,0
+            145.99042492717473,-17.84393505066475,0
+            145.99042492717473,-17.843944033776502,0
+            145.99041549008774,-17.843944033776502,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-15</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9902833708699,-17.84393505066475,0
+            145.9902833708699,-17.843926067553,0
+            145.99029280795688,-17.843926067553,0
+            145.99029280795688,-17.84393505066475,0
+            145.9902833708699,-17.84393505066475,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-16</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99029280795688,-17.84393505066475,0
+            145.99029280795688,-17.843926067553,0
+            145.99030224504386,-17.843926067553,0
+            145.99030224504386,-17.84393505066475,0
+            145.99029280795688,-17.84393505066475,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-17</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99030224504386,-17.84393505066475,0
+            145.99030224504386,-17.843926067553,0
+            145.99031168213085,-17.843926067553,0
+            145.99031168213085,-17.84393505066475,0
+            145.99030224504386,-17.84393505066475,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-18</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99031168213085,-17.84393505066475,0
+            145.99031168213085,-17.843926067553,0
+            145.99032111921784,-17.843926067553,0
+            145.99032111921784,-17.84393505066475,0
+            145.99031168213085,-17.84393505066475,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-19</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99032111921784,-17.84393505066475,0
+            145.99032111921784,-17.843926067553,0
+            145.99033055630483,-17.843926067553,0
+            145.99033055630483,-17.84393505066475,0
+            145.99032111921784,-17.84393505066475,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-20</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99033055630483,-17.84393505066475,0
+            145.99033055630483,-17.843926067553,0
+            145.9903399933918,-17.843926067553,0
+            145.9903399933918,-17.84393505066475,0
+            145.99033055630483,-17.84393505066475,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-21</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903399933918,-17.84393505066475,0
+            145.9903399933918,-17.843926067553,0
+            145.9903494304788,-17.843926067553,0
+            145.9903494304788,-17.84393505066475,0
+            145.9903399933918,-17.84393505066475,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-22</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903494304788,-17.84393505066475,0
+            145.9903494304788,-17.843926067553,0
+            145.9903588675658,-17.843926067553,0
+            145.9903588675658,-17.84393505066475,0
+            145.9903494304788,-17.84393505066475,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-23</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99035886756582,-17.84393505066475,0
+            145.99035886756582,-17.843926067553,0
+            145.9903683046528,-17.843926067553,0
+            145.9903683046528,-17.84393505066475,0
+            145.99035886756582,-17.84393505066475,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-24</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903683046528,-17.84393505066475,0
+            145.9903683046528,-17.843926067553,0
+            145.9903777417398,-17.843926067553,0
+            145.9903777417398,-17.84393505066475,0
+            145.9903683046528,-17.84393505066475,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-25</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903777417398,-17.84393505066475,0
+            145.9903777417398,-17.843926067553,0
+            145.99038717882678,-17.843926067553,0
+            145.99038717882678,-17.84393505066475,0
+            145.9903777417398,-17.84393505066475,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-26</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99038717882678,-17.84393505066475,0
+            145.99038717882678,-17.843926067553,0
+            145.99039661591377,-17.843926067553,0
+            145.99039661591377,-17.84393505066475,0
+            145.99038717882678,-17.84393505066475,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-27</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99039661591377,-17.84393505066475,0
+            145.99039661591377,-17.843926067553,0
+            145.99040605300075,-17.843926067553,0
+            145.99040605300075,-17.84393505066475,0
+            145.99039661591377,-17.84393505066475,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-28</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99040605300075,-17.84393505066475,0
+            145.99040605300075,-17.843926067553,0
+            145.99041549008774,-17.843926067553,0
+            145.99041549008774,-17.84393505066475,0
+            145.99040605300075,-17.84393505066475,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-29</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99041549008774,-17.84393505066475,0
+            145.99041549008774,-17.843926067553,0
+            145.99042492717473,-17.843926067553,0
+            145.99042492717473,-17.84393505066475,0
+            145.99041549008774,-17.84393505066475,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-30</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99023618543492,-17.843926067553003,0
+            145.99023618543492,-17.84391708444125,0
+            145.9902456225219,-17.84391708444125,0
+            145.9902456225219,-17.843926067553003,0
+            145.99023618543492,-17.843926067553003,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-31</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99024562252194,-17.843926067553003,0
+            145.99024562252194,-17.84391708444125,0
+            145.99025505960893,-17.84391708444125,0
+            145.99025505960893,-17.843926067553003,0
+            145.99024562252194,-17.843926067553003,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-32</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99025505960893,-17.843926067553003,0
+            145.99025505960893,-17.84391708444125,0
+            145.99026449669591,-17.84391708444125,0
+            145.99026449669591,-17.843926067553003,0
+            145.99025505960893,-17.843926067553003,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-33</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99026449669591,-17.843926067553003,0
+            145.99026449669591,-17.84391708444125,0
+            145.9902739337829,-17.84391708444125,0
+            145.9902739337829,-17.843926067553003,0
+            145.99026449669591,-17.843926067553003,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-34</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9902739337829,-17.843926067553003,0
+            145.9902739337829,-17.84391708444125,0
+            145.9902833708699,-17.84391708444125,0
+            145.9902833708699,-17.843926067553003,0
+            145.9902739337829,-17.843926067553003,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-35</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9902833708699,-17.843926067553003,0
+            145.9902833708699,-17.84391708444125,0
+            145.99029280795688,-17.84391708444125,0
+            145.99029280795688,-17.843926067553003,0
+            145.9902833708699,-17.843926067553003,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-36</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99029280795688,-17.843926067553003,0
+            145.99029280795688,-17.84391708444125,0
+            145.99030224504386,-17.84391708444125,0
+            145.99030224504386,-17.843926067553003,0
+            145.99029280795688,-17.843926067553003,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-37</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99030224504386,-17.843926067553003,0
+            145.99030224504386,-17.84391708444125,0
+            145.99031168213085,-17.84391708444125,0
+            145.99031168213085,-17.843926067553003,0
+            145.99030224504386,-17.843926067553003,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-38</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99031168213085,-17.843926067553003,0
+            145.99031168213085,-17.84391708444125,0
+            145.99032111921784,-17.84391708444125,0
+            145.99032111921784,-17.843926067553003,0
+            145.99031168213085,-17.843926067553003,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-39</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99032111921784,-17.843926067553003,0
+            145.99032111921784,-17.84391708444125,0
+            145.99033055630483,-17.84391708444125,0
+            145.99033055630483,-17.843926067553003,0
+            145.99032111921784,-17.843926067553003,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-40</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99033055630483,-17.843926067553003,0
+            145.99033055630483,-17.84391708444125,0
+            145.9903399933918,-17.84391708444125,0
+            145.9903399933918,-17.843926067553003,0
+            145.99033055630483,-17.843926067553003,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-41</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903399933918,-17.843926067553003,0
+            145.9903399933918,-17.84391708444125,0
+            145.9903494304788,-17.84391708444125,0
+            145.9903494304788,-17.843926067553003,0
+            145.9903399933918,-17.843926067553003,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-42</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903494304788,-17.843926067553003,0
+            145.9903494304788,-17.84391708444125,0
+            145.9903588675658,-17.84391708444125,0
+            145.9903588675658,-17.843926067553003,0
+            145.9903494304788,-17.843926067553003,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-43</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99035886756582,-17.843926067553003,0
+            145.99035886756582,-17.84391708444125,0
+            145.9903683046528,-17.84391708444125,0
+            145.9903683046528,-17.843926067553003,0
+            145.99035886756582,-17.843926067553003,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-44</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903683046528,-17.843926067553003,0
+            145.9903683046528,-17.84391708444125,0
+            145.9903777417398,-17.84391708444125,0
+            145.9903777417398,-17.843926067553003,0
+            145.9903683046528,-17.843926067553003,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-45</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903777417398,-17.843926067553003,0
+            145.9903777417398,-17.84391708444125,0
+            145.99038717882678,-17.84391708444125,0
+            145.99038717882678,-17.843926067553003,0
+            145.9903777417398,-17.843926067553003,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-46</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99038717882678,-17.843926067553003,0
+            145.99038717882678,-17.84391708444125,0
+            145.99039661591377,-17.84391708444125,0
+            145.99039661591377,-17.843926067553003,0
+            145.99038717882678,-17.843926067553003,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-47</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99039661591377,-17.843926067553003,0
+            145.99039661591377,-17.84391708444125,0
+            145.99040605300075,-17.84391708444125,0
+            145.99040605300075,-17.843926067553003,0
+            145.99039661591377,-17.843926067553003,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-48</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99040605300075,-17.843926067553003,0
+            145.99040605300075,-17.84391708444125,0
+            145.99041549008774,-17.84391708444125,0
+            145.99041549008774,-17.843926067553003,0
+            145.99040605300075,-17.843926067553003,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-49</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99041549008774,-17.843926067553003,0
+            145.99041549008774,-17.84391708444125,0
+            145.99042492717473,-17.84391708444125,0
+            145.99042492717473,-17.843926067553003,0
+            145.99041549008774,-17.843926067553003,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-50</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99042492717473,-17.843926067553003,0
+            145.99042492717473,-17.84391708444125,0
+            145.99043436426172,-17.84391708444125,0
+            145.99043436426172,-17.843926067553003,0
+            145.99042492717473,-17.843926067553003,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-51</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99019843708697,-17.84391708444125,0
+            145.99019843708697,-17.8439081013295,0
+            145.99020787417396,-17.8439081013295,0
+            145.99020787417396,-17.84391708444125,0
+            145.99019843708697,-17.84391708444125,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-52</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99020787417396,-17.84391708444125,0
+            145.99020787417396,-17.8439081013295,0
+            145.99021731126095,-17.8439081013295,0
+            145.99021731126095,-17.84391708444125,0
+            145.99020787417396,-17.84391708444125,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-53</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99021731126095,-17.84391708444125,0
+            145.99021731126095,-17.8439081013295,0
+            145.99022674834794,-17.8439081013295,0
+            145.99022674834794,-17.84391708444125,0
+            145.99021731126095,-17.84391708444125,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-54</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99022674834794,-17.84391708444125,0
+            145.99022674834794,-17.8439081013295,0
+            145.99023618543492,-17.8439081013295,0
+            145.99023618543492,-17.84391708444125,0
+            145.99022674834794,-17.84391708444125,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-55</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99023618543492,-17.84391708444125,0
+            145.99023618543492,-17.8439081013295,0
+            145.9902456225219,-17.8439081013295,0
+            145.9902456225219,-17.84391708444125,0
+            145.99023618543492,-17.84391708444125,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-56</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99024562252194,-17.84391708444125,0
+            145.99024562252194,-17.8439081013295,0
+            145.99025505960893,-17.8439081013295,0
+            145.99025505960893,-17.84391708444125,0
+            145.99024562252194,-17.84391708444125,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-57</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99025505960893,-17.84391708444125,0
+            145.99025505960893,-17.8439081013295,0
+            145.99026449669591,-17.8439081013295,0
+            145.99026449669591,-17.84391708444125,0
+            145.99025505960893,-17.84391708444125,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-58</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99026449669591,-17.84391708444125,0
+            145.99026449669591,-17.8439081013295,0
+            145.9902739337829,-17.8439081013295,0
+            145.9902739337829,-17.84391708444125,0
+            145.99026449669591,-17.84391708444125,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-59</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9902739337829,-17.84391708444125,0
+            145.9902739337829,-17.8439081013295,0
+            145.9902833708699,-17.8439081013295,0
+            145.9902833708699,-17.84391708444125,0
+            145.9902739337829,-17.84391708444125,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-60</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9902833708699,-17.84391708444125,0
+            145.9902833708699,-17.8439081013295,0
+            145.99029280795688,-17.8439081013295,0
+            145.99029280795688,-17.84391708444125,0
+            145.9902833708699,-17.84391708444125,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-61</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99029280795688,-17.84391708444125,0
+            145.99029280795688,-17.8439081013295,0
+            145.99030224504386,-17.8439081013295,0
+            145.99030224504386,-17.84391708444125,0
+            145.99029280795688,-17.84391708444125,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-62</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99030224504386,-17.84391708444125,0
+            145.99030224504386,-17.8439081013295,0
+            145.99031168213085,-17.8439081013295,0
+            145.99031168213085,-17.84391708444125,0
+            145.99030224504386,-17.84391708444125,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-63</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99031168213085,-17.84391708444125,0
+            145.99031168213085,-17.8439081013295,0
+            145.99032111921784,-17.8439081013295,0
+            145.99032111921784,-17.84391708444125,0
+            145.99031168213085,-17.84391708444125,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-64</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99032111921784,-17.84391708444125,0
+            145.99032111921784,-17.8439081013295,0
+            145.99033055630483,-17.8439081013295,0
+            145.99033055630483,-17.84391708444125,0
+            145.99032111921784,-17.84391708444125,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-65</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99033055630483,-17.84391708444125,0
+            145.99033055630483,-17.8439081013295,0
+            145.9903399933918,-17.8439081013295,0
+            145.9903399933918,-17.84391708444125,0
+            145.99033055630483,-17.84391708444125,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-66</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903399933918,-17.84391708444125,0
+            145.9903399933918,-17.8439081013295,0
+            145.9903494304788,-17.8439081013295,0
+            145.9903494304788,-17.84391708444125,0
+            145.9903399933918,-17.84391708444125,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-67</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903494304788,-17.84391708444125,0
+            145.9903494304788,-17.8439081013295,0
+            145.9903588675658,-17.8439081013295,0
+            145.9903588675658,-17.84391708444125,0
+            145.9903494304788,-17.84391708444125,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-68</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99035886756582,-17.84391708444125,0
+            145.99035886756582,-17.8439081013295,0
+            145.9903683046528,-17.8439081013295,0
+            145.9903683046528,-17.84391708444125,0
+            145.99035886756582,-17.84391708444125,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-69</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903683046528,-17.84391708444125,0
+            145.9903683046528,-17.8439081013295,0
+            145.9903777417398,-17.8439081013295,0
+            145.9903777417398,-17.84391708444125,0
+            145.9903683046528,-17.84391708444125,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-70</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903777417398,-17.84391708444125,0
+            145.9903777417398,-17.8439081013295,0
+            145.99038717882678,-17.8439081013295,0
+            145.99038717882678,-17.84391708444125,0
+            145.9903777417398,-17.84391708444125,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-71</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99038717882678,-17.84391708444125,0
+            145.99038717882678,-17.8439081013295,0
+            145.99039661591377,-17.8439081013295,0
+            145.99039661591377,-17.84391708444125,0
+            145.99038717882678,-17.84391708444125,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-72</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99039661591377,-17.84391708444125,0
+            145.99039661591377,-17.8439081013295,0
+            145.99040605300075,-17.8439081013295,0
+            145.99040605300075,-17.84391708444125,0
+            145.99039661591377,-17.84391708444125,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-73</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99040605300075,-17.84391708444125,0
+            145.99040605300075,-17.8439081013295,0
+            145.99041549008774,-17.8439081013295,0
+            145.99041549008774,-17.84391708444125,0
+            145.99040605300075,-17.84391708444125,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-74</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99041549008774,-17.84391708444125,0
+            145.99041549008774,-17.8439081013295,0
+            145.99042492717473,-17.8439081013295,0
+            145.99042492717473,-17.84391708444125,0
+            145.99041549008774,-17.84391708444125,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-75</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99042492717473,-17.84391708444125,0
+            145.99042492717473,-17.8439081013295,0
+            145.99043436426172,-17.8439081013295,0
+            145.99043436426172,-17.84391708444125,0
+            145.99042492717473,-17.84391708444125,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-76</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99043436426172,-17.84391708444125,0
+            145.99043436426172,-17.8439081013295,0
+            145.9904438013487,-17.8439081013295,0
+            145.9904438013487,-17.84391708444125,0
+            145.99043436426172,-17.84391708444125,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-77</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99019843708697,-17.8439081013295,0
+            145.99019843708697,-17.84389911821775,0
+            145.99020787417396,-17.84389911821775,0
+            145.99020787417396,-17.8439081013295,0
+            145.99019843708697,-17.8439081013295,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-78</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99020787417396,-17.8439081013295,0
+            145.99020787417396,-17.84389911821775,0
+            145.99021731126095,-17.84389911821775,0
+            145.99021731126095,-17.8439081013295,0
+            145.99020787417396,-17.8439081013295,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-79</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99021731126095,-17.8439081013295,0
+            145.99021731126095,-17.84389911821775,0
+            145.99022674834794,-17.84389911821775,0
+            145.99022674834794,-17.8439081013295,0
+            145.99021731126095,-17.8439081013295,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-80</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99022674834794,-17.8439081013295,0
+            145.99022674834794,-17.84389911821775,0
+            145.99023618543492,-17.84389911821775,0
+            145.99023618543492,-17.8439081013295,0
+            145.99022674834794,-17.8439081013295,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-81</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99023618543492,-17.8439081013295,0
+            145.99023618543492,-17.84389911821775,0
+            145.9902456225219,-17.84389911821775,0
+            145.9902456225219,-17.8439081013295,0
+            145.99023618543492,-17.8439081013295,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-82</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99024562252194,-17.8439081013295,0
+            145.99024562252194,-17.84389911821775,0
+            145.99025505960893,-17.84389911821775,0
+            145.99025505960893,-17.8439081013295,0
+            145.99024562252194,-17.8439081013295,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-83</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99025505960893,-17.8439081013295,0
+            145.99025505960893,-17.84389911821775,0
+            145.99026449669591,-17.84389911821775,0
+            145.99026449669591,-17.8439081013295,0
+            145.99025505960893,-17.8439081013295,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-84</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99026449669591,-17.8439081013295,0
+            145.99026449669591,-17.84389911821775,0
+            145.9902739337829,-17.84389911821775,0
+            145.9902739337829,-17.8439081013295,0
+            145.99026449669591,-17.8439081013295,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-85</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9902739337829,-17.8439081013295,0
+            145.9902739337829,-17.84389911821775,0
+            145.9902833708699,-17.84389911821775,0
+            145.9902833708699,-17.8439081013295,0
+            145.9902739337829,-17.8439081013295,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-86</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9902833708699,-17.8439081013295,0
+            145.9902833708699,-17.84389911821775,0
+            145.99029280795688,-17.84389911821775,0
+            145.99029280795688,-17.8439081013295,0
+            145.9902833708699,-17.8439081013295,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-87</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99029280795688,-17.8439081013295,0
+            145.99029280795688,-17.84389911821775,0
+            145.99030224504386,-17.84389911821775,0
+            145.99030224504386,-17.8439081013295,0
+            145.99029280795688,-17.8439081013295,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-88</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99030224504386,-17.8439081013295,0
+            145.99030224504386,-17.84389911821775,0
+            145.99031168213085,-17.84389911821775,0
+            145.99031168213085,-17.8439081013295,0
+            145.99030224504386,-17.8439081013295,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-89</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99031168213085,-17.8439081013295,0
+            145.99031168213085,-17.84389911821775,0
+            145.99032111921784,-17.84389911821775,0
+            145.99032111921784,-17.8439081013295,0
+            145.99031168213085,-17.8439081013295,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-90</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99032111921784,-17.8439081013295,0
+            145.99032111921784,-17.84389911821775,0
+            145.99033055630483,-17.84389911821775,0
+            145.99033055630483,-17.8439081013295,0
+            145.99032111921784,-17.8439081013295,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-91</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99033055630483,-17.8439081013295,0
+            145.99033055630483,-17.84389911821775,0
+            145.9903399933918,-17.84389911821775,0
+            145.9903399933918,-17.8439081013295,0
+            145.99033055630483,-17.8439081013295,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-92</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903399933918,-17.8439081013295,0
+            145.9903399933918,-17.84389911821775,0
+            145.9903494304788,-17.84389911821775,0
+            145.9903494304788,-17.8439081013295,0
+            145.9903399933918,-17.8439081013295,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-93</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903494304788,-17.8439081013295,0
+            145.9903494304788,-17.84389911821775,0
+            145.9903588675658,-17.84389911821775,0
+            145.9903588675658,-17.8439081013295,0
+            145.9903494304788,-17.8439081013295,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-94</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99035886756582,-17.8439081013295,0
+            145.99035886756582,-17.84389911821775,0
+            145.9903683046528,-17.84389911821775,0
+            145.9903683046528,-17.8439081013295,0
+            145.99035886756582,-17.8439081013295,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-95</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903683046528,-17.8439081013295,0
+            145.9903683046528,-17.84389911821775,0
+            145.9903777417398,-17.84389911821775,0
+            145.9903777417398,-17.8439081013295,0
+            145.9903683046528,-17.8439081013295,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-96</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903777417398,-17.8439081013295,0
+            145.9903777417398,-17.84389911821775,0
+            145.99038717882678,-17.84389911821775,0
+            145.99038717882678,-17.8439081013295,0
+            145.9903777417398,-17.8439081013295,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-97</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99038717882678,-17.8439081013295,0
+            145.99038717882678,-17.84389911821775,0
+            145.99039661591377,-17.84389911821775,0
+            145.99039661591377,-17.8439081013295,0
+            145.99038717882678,-17.8439081013295,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-98</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99039661591377,-17.8439081013295,0
+            145.99039661591377,-17.84389911821775,0
+            145.99040605300075,-17.84389911821775,0
+            145.99040605300075,-17.8439081013295,0
+            145.99039661591377,-17.8439081013295,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-99</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99040605300075,-17.8439081013295,0
+            145.99040605300075,-17.84389911821775,0
+            145.99041549008774,-17.84389911821775,0
+            145.99041549008774,-17.8439081013295,0
+            145.99040605300075,-17.8439081013295,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 1-100</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99041549008774,-17.8439081013295,0
+            145.99041549008774,-17.84389911821775,0
+            145.99042492717473,-17.84389911821775,0
+            145.99042492717473,-17.8439081013295,0
+            145.99041549008774,-17.8439081013295,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-1</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903777417398,-17.84395301688825,0
+            145.9903777417398,-17.8439440337765,0
+            145.99038717882678,-17.8439440337765,0
+            145.99038717882678,-17.84395301688825,0
+            145.9903777417398,-17.84395301688825,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-2</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99038717882678,-17.84395301688825,0
+            145.99038717882678,-17.8439440337765,0
+            145.99039661591377,-17.8439440337765,0
+            145.99039661591377,-17.84395301688825,0
+            145.99038717882678,-17.84395301688825,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-3</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99039661591377,-17.84395301688825,0
+            145.99039661591377,-17.8439440337765,0
+            145.99040605300075,-17.8439440337765,0
+            145.99040605300075,-17.84395301688825,0
+            145.99039661591377,-17.84395301688825,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-4</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99040605300075,-17.84395301688825,0
+            145.99040605300075,-17.8439440337765,0
+            145.99041549008774,-17.8439440337765,0
+            145.99041549008774,-17.84395301688825,0
+            145.99040605300075,-17.84395301688825,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-5</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99033055630483,-17.843944033776502,0
+            145.99033055630483,-17.84393505066475,0
+            145.9903399933918,-17.84393505066475,0
+            145.9903399933918,-17.843944033776502,0
+            145.99033055630483,-17.843944033776502,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-6</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903399933918,-17.843944033776502,0
+            145.9903399933918,-17.84393505066475,0
+            145.9903494304788,-17.84393505066475,0
+            145.9903494304788,-17.843944033776502,0
+            145.9903399933918,-17.843944033776502,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-7</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903494304788,-17.843944033776502,0
+            145.9903494304788,-17.84393505066475,0
+            145.9903588675658,-17.84393505066475,0
+            145.9903588675658,-17.843944033776502,0
+            145.9903494304788,-17.843944033776502,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-8</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99035886756582,-17.843944033776502,0
+            145.99035886756582,-17.84393505066475,0
+            145.9903683046528,-17.84393505066475,0
+            145.9903683046528,-17.843944033776502,0
+            145.99035886756582,-17.843944033776502,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-9</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903683046528,-17.843944033776502,0
+            145.9903683046528,-17.84393505066475,0
+            145.9903777417398,-17.84393505066475,0
+            145.9903777417398,-17.843944033776502,0
+            145.9903683046528,-17.843944033776502,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-10</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903777417398,-17.843944033776502,0
+            145.9903777417398,-17.84393505066475,0
+            145.99038717882678,-17.84393505066475,0
+            145.99038717882678,-17.843944033776502,0
+            145.9903777417398,-17.843944033776502,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-11</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99038717882678,-17.843944033776502,0
+            145.99038717882678,-17.84393505066475,0
+            145.99039661591377,-17.84393505066475,0
+            145.99039661591377,-17.843944033776502,0
+            145.99038717882678,-17.843944033776502,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-12</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99039661591377,-17.843944033776502,0
+            145.99039661591377,-17.84393505066475,0
+            145.99040605300075,-17.84393505066475,0
+            145.99040605300075,-17.843944033776502,0
+            145.99039661591377,-17.843944033776502,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-13</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99040605300075,-17.843944033776502,0
+            145.99040605300075,-17.84393505066475,0
+            145.99041549008774,-17.84393505066475,0
+            145.99041549008774,-17.843944033776502,0
+            145.99040605300075,-17.843944033776502,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-14</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99041549008774,-17.843944033776502,0
+            145.99041549008774,-17.84393505066475,0
+            145.99042492717473,-17.84393505066475,0
+            145.99042492717473,-17.843944033776502,0
+            145.99041549008774,-17.843944033776502,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-15</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9902833708699,-17.84393505066475,0
+            145.9902833708699,-17.843926067553,0
+            145.99029280795688,-17.843926067553,0
+            145.99029280795688,-17.84393505066475,0
+            145.9902833708699,-17.84393505066475,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-16</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99029280795688,-17.84393505066475,0
+            145.99029280795688,-17.843926067553,0
+            145.99030224504386,-17.843926067553,0
+            145.99030224504386,-17.84393505066475,0
+            145.99029280795688,-17.84393505066475,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-17</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99030224504386,-17.84393505066475,0
+            145.99030224504386,-17.843926067553,0
+            145.99031168213085,-17.843926067553,0
+            145.99031168213085,-17.84393505066475,0
+            145.99030224504386,-17.84393505066475,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-18</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99031168213085,-17.84393505066475,0
+            145.99031168213085,-17.843926067553,0
+            145.99032111921784,-17.843926067553,0
+            145.99032111921784,-17.84393505066475,0
+            145.99031168213085,-17.84393505066475,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-19</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99032111921784,-17.84393505066475,0
+            145.99032111921784,-17.843926067553,0
+            145.99033055630483,-17.843926067553,0
+            145.99033055630483,-17.84393505066475,0
+            145.99032111921784,-17.84393505066475,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-20</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99033055630483,-17.84393505066475,0
+            145.99033055630483,-17.843926067553,0
+            145.9903399933918,-17.843926067553,0
+            145.9903399933918,-17.84393505066475,0
+            145.99033055630483,-17.84393505066475,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-21</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903399933918,-17.84393505066475,0
+            145.9903399933918,-17.843926067553,0
+            145.9903494304788,-17.843926067553,0
+            145.9903494304788,-17.84393505066475,0
+            145.9903399933918,-17.84393505066475,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-22</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903494304788,-17.84393505066475,0
+            145.9903494304788,-17.843926067553,0
+            145.9903588675658,-17.843926067553,0
+            145.9903588675658,-17.84393505066475,0
+            145.9903494304788,-17.84393505066475,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-23</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99035886756582,-17.84393505066475,0
+            145.99035886756582,-17.843926067553,0
+            145.9903683046528,-17.843926067553,0
+            145.9903683046528,-17.84393505066475,0
+            145.99035886756582,-17.84393505066475,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-24</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903683046528,-17.84393505066475,0
+            145.9903683046528,-17.843926067553,0
+            145.9903777417398,-17.843926067553,0
+            145.9903777417398,-17.84393505066475,0
+            145.9903683046528,-17.84393505066475,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-25</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903777417398,-17.84393505066475,0
+            145.9903777417398,-17.843926067553,0
+            145.99038717882678,-17.843926067553,0
+            145.99038717882678,-17.84393505066475,0
+            145.9903777417398,-17.84393505066475,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-26</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99038717882678,-17.84393505066475,0
+            145.99038717882678,-17.843926067553,0
+            145.99039661591377,-17.843926067553,0
+            145.99039661591377,-17.84393505066475,0
+            145.99038717882678,-17.84393505066475,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-27</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99039661591377,-17.84393505066475,0
+            145.99039661591377,-17.843926067553,0
+            145.99040605300075,-17.843926067553,0
+            145.99040605300075,-17.84393505066475,0
+            145.99039661591377,-17.84393505066475,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-28</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99040605300075,-17.84393505066475,0
+            145.99040605300075,-17.843926067553,0
+            145.99041549008774,-17.843926067553,0
+            145.99041549008774,-17.84393505066475,0
+            145.99040605300075,-17.84393505066475,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-29</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99041549008774,-17.84393505066475,0
+            145.99041549008774,-17.843926067553,0
+            145.99042492717473,-17.843926067553,0
+            145.99042492717473,-17.84393505066475,0
+            145.99041549008774,-17.84393505066475,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-30</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99023618543492,-17.843926067553003,0
+            145.99023618543492,-17.84391708444125,0
+            145.9902456225219,-17.84391708444125,0
+            145.9902456225219,-17.843926067553003,0
+            145.99023618543492,-17.843926067553003,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-31</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99024562252194,-17.843926067553003,0
+            145.99024562252194,-17.84391708444125,0
+            145.99025505960893,-17.84391708444125,0
+            145.99025505960893,-17.843926067553003,0
+            145.99024562252194,-17.843926067553003,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-32</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99025505960893,-17.843926067553003,0
+            145.99025505960893,-17.84391708444125,0
+            145.99026449669591,-17.84391708444125,0
+            145.99026449669591,-17.843926067553003,0
+            145.99025505960893,-17.843926067553003,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-33</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99026449669591,-17.843926067553003,0
+            145.99026449669591,-17.84391708444125,0
+            145.9902739337829,-17.84391708444125,0
+            145.9902739337829,-17.843926067553003,0
+            145.99026449669591,-17.843926067553003,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-34</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9902739337829,-17.843926067553003,0
+            145.9902739337829,-17.84391708444125,0
+            145.9902833708699,-17.84391708444125,0
+            145.9902833708699,-17.843926067553003,0
+            145.9902739337829,-17.843926067553003,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-35</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9902833708699,-17.843926067553003,0
+            145.9902833708699,-17.84391708444125,0
+            145.99029280795688,-17.84391708444125,0
+            145.99029280795688,-17.843926067553003,0
+            145.9902833708699,-17.843926067553003,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-36</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99029280795688,-17.843926067553003,0
+            145.99029280795688,-17.84391708444125,0
+            145.99030224504386,-17.84391708444125,0
+            145.99030224504386,-17.843926067553003,0
+            145.99029280795688,-17.843926067553003,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-37</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99030224504386,-17.843926067553003,0
+            145.99030224504386,-17.84391708444125,0
+            145.99031168213085,-17.84391708444125,0
+            145.99031168213085,-17.843926067553003,0
+            145.99030224504386,-17.843926067553003,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-38</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99031168213085,-17.843926067553003,0
+            145.99031168213085,-17.84391708444125,0
+            145.99032111921784,-17.84391708444125,0
+            145.99032111921784,-17.843926067553003,0
+            145.99031168213085,-17.843926067553003,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-39</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99032111921784,-17.843926067553003,0
+            145.99032111921784,-17.84391708444125,0
+            145.99033055630483,-17.84391708444125,0
+            145.99033055630483,-17.843926067553003,0
+            145.99032111921784,-17.843926067553003,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-40</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99033055630483,-17.843926067553003,0
+            145.99033055630483,-17.84391708444125,0
+            145.9903399933918,-17.84391708444125,0
+            145.9903399933918,-17.843926067553003,0
+            145.99033055630483,-17.843926067553003,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-41</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903399933918,-17.843926067553003,0
+            145.9903399933918,-17.84391708444125,0
+            145.9903494304788,-17.84391708444125,0
+            145.9903494304788,-17.843926067553003,0
+            145.9903399933918,-17.843926067553003,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-42</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903494304788,-17.843926067553003,0
+            145.9903494304788,-17.84391708444125,0
+            145.9903588675658,-17.84391708444125,0
+            145.9903588675658,-17.843926067553003,0
+            145.9903494304788,-17.843926067553003,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-43</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99035886756582,-17.843926067553003,0
+            145.99035886756582,-17.84391708444125,0
+            145.9903683046528,-17.84391708444125,0
+            145.9903683046528,-17.843926067553003,0
+            145.99035886756582,-17.843926067553003,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-44</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903683046528,-17.843926067553003,0
+            145.9903683046528,-17.84391708444125,0
+            145.9903777417398,-17.84391708444125,0
+            145.9903777417398,-17.843926067553003,0
+            145.9903683046528,-17.843926067553003,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-45</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903777417398,-17.843926067553003,0
+            145.9903777417398,-17.84391708444125,0
+            145.99038717882678,-17.84391708444125,0
+            145.99038717882678,-17.843926067553003,0
+            145.9903777417398,-17.843926067553003,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-46</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99038717882678,-17.843926067553003,0
+            145.99038717882678,-17.84391708444125,0
+            145.99039661591377,-17.84391708444125,0
+            145.99039661591377,-17.843926067553003,0
+            145.99038717882678,-17.843926067553003,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-47</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99039661591377,-17.843926067553003,0
+            145.99039661591377,-17.84391708444125,0
+            145.99040605300075,-17.84391708444125,0
+            145.99040605300075,-17.843926067553003,0
+            145.99039661591377,-17.843926067553003,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-48</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99040605300075,-17.843926067553003,0
+            145.99040605300075,-17.84391708444125,0
+            145.99041549008774,-17.84391708444125,0
+            145.99041549008774,-17.843926067553003,0
+            145.99040605300075,-17.843926067553003,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-49</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99041549008774,-17.843926067553003,0
+            145.99041549008774,-17.84391708444125,0
+            145.99042492717473,-17.84391708444125,0
+            145.99042492717473,-17.843926067553003,0
+            145.99041549008774,-17.843926067553003,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-50</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99042492717473,-17.843926067553003,0
+            145.99042492717473,-17.84391708444125,0
+            145.99043436426172,-17.84391708444125,0
+            145.99043436426172,-17.843926067553003,0
+            145.99042492717473,-17.843926067553003,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-51</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99019843708697,-17.84391708444125,0
+            145.99019843708697,-17.8439081013295,0
+            145.99020787417396,-17.8439081013295,0
+            145.99020787417396,-17.84391708444125,0
+            145.99019843708697,-17.84391708444125,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-52</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99020787417396,-17.84391708444125,0
+            145.99020787417396,-17.8439081013295,0
+            145.99021731126095,-17.8439081013295,0
+            145.99021731126095,-17.84391708444125,0
+            145.99020787417396,-17.84391708444125,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-53</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99021731126095,-17.84391708444125,0
+            145.99021731126095,-17.8439081013295,0
+            145.99022674834794,-17.8439081013295,0
+            145.99022674834794,-17.84391708444125,0
+            145.99021731126095,-17.84391708444125,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-54</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99022674834794,-17.84391708444125,0
+            145.99022674834794,-17.8439081013295,0
+            145.99023618543492,-17.8439081013295,0
+            145.99023618543492,-17.84391708444125,0
+            145.99022674834794,-17.84391708444125,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-55</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99023618543492,-17.84391708444125,0
+            145.99023618543492,-17.8439081013295,0
+            145.9902456225219,-17.8439081013295,0
+            145.9902456225219,-17.84391708444125,0
+            145.99023618543492,-17.84391708444125,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-56</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99024562252194,-17.84391708444125,0
+            145.99024562252194,-17.8439081013295,0
+            145.99025505960893,-17.8439081013295,0
+            145.99025505960893,-17.84391708444125,0
+            145.99024562252194,-17.84391708444125,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-57</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99025505960893,-17.84391708444125,0
+            145.99025505960893,-17.8439081013295,0
+            145.99026449669591,-17.8439081013295,0
+            145.99026449669591,-17.84391708444125,0
+            145.99025505960893,-17.84391708444125,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-58</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99026449669591,-17.84391708444125,0
+            145.99026449669591,-17.8439081013295,0
+            145.9902739337829,-17.8439081013295,0
+            145.9902739337829,-17.84391708444125,0
+            145.99026449669591,-17.84391708444125,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-59</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9902739337829,-17.84391708444125,0
+            145.9902739337829,-17.8439081013295,0
+            145.9902833708699,-17.8439081013295,0
+            145.9902833708699,-17.84391708444125,0
+            145.9902739337829,-17.84391708444125,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-60</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9902833708699,-17.84391708444125,0
+            145.9902833708699,-17.8439081013295,0
+            145.99029280795688,-17.8439081013295,0
+            145.99029280795688,-17.84391708444125,0
+            145.9902833708699,-17.84391708444125,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-61</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99029280795688,-17.84391708444125,0
+            145.99029280795688,-17.8439081013295,0
+            145.99030224504386,-17.8439081013295,0
+            145.99030224504386,-17.84391708444125,0
+            145.99029280795688,-17.84391708444125,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-62</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99030224504386,-17.84391708444125,0
+            145.99030224504386,-17.8439081013295,0
+            145.99031168213085,-17.8439081013295,0
+            145.99031168213085,-17.84391708444125,0
+            145.99030224504386,-17.84391708444125,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-63</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99031168213085,-17.84391708444125,0
+            145.99031168213085,-17.8439081013295,0
+            145.99032111921784,-17.8439081013295,0
+            145.99032111921784,-17.84391708444125,0
+            145.99031168213085,-17.84391708444125,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-64</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99032111921784,-17.84391708444125,0
+            145.99032111921784,-17.8439081013295,0
+            145.99033055630483,-17.8439081013295,0
+            145.99033055630483,-17.84391708444125,0
+            145.99032111921784,-17.84391708444125,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-65</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99033055630483,-17.84391708444125,0
+            145.99033055630483,-17.8439081013295,0
+            145.9903399933918,-17.8439081013295,0
+            145.9903399933918,-17.84391708444125,0
+            145.99033055630483,-17.84391708444125,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-66</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903399933918,-17.84391708444125,0
+            145.9903399933918,-17.8439081013295,0
+            145.9903494304788,-17.8439081013295,0
+            145.9903494304788,-17.84391708444125,0
+            145.9903399933918,-17.84391708444125,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-67</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903494304788,-17.84391708444125,0
+            145.9903494304788,-17.8439081013295,0
+            145.9903588675658,-17.8439081013295,0
+            145.9903588675658,-17.84391708444125,0
+            145.9903494304788,-17.84391708444125,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-68</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99035886756582,-17.84391708444125,0
+            145.99035886756582,-17.8439081013295,0
+            145.9903683046528,-17.8439081013295,0
+            145.9903683046528,-17.84391708444125,0
+            145.99035886756582,-17.84391708444125,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-69</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903683046528,-17.84391708444125,0
+            145.9903683046528,-17.8439081013295,0
+            145.9903777417398,-17.8439081013295,0
+            145.9903777417398,-17.84391708444125,0
+            145.9903683046528,-17.84391708444125,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-70</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903777417398,-17.84391708444125,0
+            145.9903777417398,-17.8439081013295,0
+            145.99038717882678,-17.8439081013295,0
+            145.99038717882678,-17.84391708444125,0
+            145.9903777417398,-17.84391708444125,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-71</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99038717882678,-17.84391708444125,0
+            145.99038717882678,-17.8439081013295,0
+            145.99039661591377,-17.8439081013295,0
+            145.99039661591377,-17.84391708444125,0
+            145.99038717882678,-17.84391708444125,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-72</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99039661591377,-17.84391708444125,0
+            145.99039661591377,-17.8439081013295,0
+            145.99040605300075,-17.8439081013295,0
+            145.99040605300075,-17.84391708444125,0
+            145.99039661591377,-17.84391708444125,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-73</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99040605300075,-17.84391708444125,0
+            145.99040605300075,-17.8439081013295,0
+            145.99041549008774,-17.8439081013295,0
+            145.99041549008774,-17.84391708444125,0
+            145.99040605300075,-17.84391708444125,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-74</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99041549008774,-17.84391708444125,0
+            145.99041549008774,-17.8439081013295,0
+            145.99042492717473,-17.8439081013295,0
+            145.99042492717473,-17.84391708444125,0
+            145.99041549008774,-17.84391708444125,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-75</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99042492717473,-17.84391708444125,0
+            145.99042492717473,-17.8439081013295,0
+            145.99043436426172,-17.8439081013295,0
+            145.99043436426172,-17.84391708444125,0
+            145.99042492717473,-17.84391708444125,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-76</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99043436426172,-17.84391708444125,0
+            145.99043436426172,-17.8439081013295,0
+            145.9904438013487,-17.8439081013295,0
+            145.9904438013487,-17.84391708444125,0
+            145.99043436426172,-17.84391708444125,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-77</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99019843708697,-17.8439081013295,0
+            145.99019843708697,-17.84389911821775,0
+            145.99020787417396,-17.84389911821775,0
+            145.99020787417396,-17.8439081013295,0
+            145.99019843708697,-17.8439081013295,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-78</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99020787417396,-17.8439081013295,0
+            145.99020787417396,-17.84389911821775,0
+            145.99021731126095,-17.84389911821775,0
+            145.99021731126095,-17.8439081013295,0
+            145.99020787417396,-17.8439081013295,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-79</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99021731126095,-17.8439081013295,0
+            145.99021731126095,-17.84389911821775,0
+            145.99022674834794,-17.84389911821775,0
+            145.99022674834794,-17.8439081013295,0
+            145.99021731126095,-17.8439081013295,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-80</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99022674834794,-17.8439081013295,0
+            145.99022674834794,-17.84389911821775,0
+            145.99023618543492,-17.84389911821775,0
+            145.99023618543492,-17.8439081013295,0
+            145.99022674834794,-17.8439081013295,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-81</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99023618543492,-17.8439081013295,0
+            145.99023618543492,-17.84389911821775,0
+            145.9902456225219,-17.84389911821775,0
+            145.9902456225219,-17.8439081013295,0
+            145.99023618543492,-17.8439081013295,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-82</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99024562252194,-17.8439081013295,0
+            145.99024562252194,-17.84389911821775,0
+            145.99025505960893,-17.84389911821775,0
+            145.99025505960893,-17.8439081013295,0
+            145.99024562252194,-17.8439081013295,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-83</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99025505960893,-17.8439081013295,0
+            145.99025505960893,-17.84389911821775,0
+            145.99026449669591,-17.84389911821775,0
+            145.99026449669591,-17.8439081013295,0
+            145.99025505960893,-17.8439081013295,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-84</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99026449669591,-17.8439081013295,0
+            145.99026449669591,-17.84389911821775,0
+            145.9902739337829,-17.84389911821775,0
+            145.9902739337829,-17.8439081013295,0
+            145.99026449669591,-17.8439081013295,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-85</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9902739337829,-17.8439081013295,0
+            145.9902739337829,-17.84389911821775,0
+            145.9902833708699,-17.84389911821775,0
+            145.9902833708699,-17.8439081013295,0
+            145.9902739337829,-17.8439081013295,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-86</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9902833708699,-17.8439081013295,0
+            145.9902833708699,-17.84389911821775,0
+            145.99029280795688,-17.84389911821775,0
+            145.99029280795688,-17.8439081013295,0
+            145.9902833708699,-17.8439081013295,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-87</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99029280795688,-17.8439081013295,0
+            145.99029280795688,-17.84389911821775,0
+            145.99030224504386,-17.84389911821775,0
+            145.99030224504386,-17.8439081013295,0
+            145.99029280795688,-17.8439081013295,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-88</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99030224504386,-17.8439081013295,0
+            145.99030224504386,-17.84389911821775,0
+            145.99031168213085,-17.84389911821775,0
+            145.99031168213085,-17.8439081013295,0
+            145.99030224504386,-17.8439081013295,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-89</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99031168213085,-17.8439081013295,0
+            145.99031168213085,-17.84389911821775,0
+            145.99032111921784,-17.84389911821775,0
+            145.99032111921784,-17.8439081013295,0
+            145.99031168213085,-17.8439081013295,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-90</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99032111921784,-17.8439081013295,0
+            145.99032111921784,-17.84389911821775,0
+            145.99033055630483,-17.84389911821775,0
+            145.99033055630483,-17.8439081013295,0
+            145.99032111921784,-17.8439081013295,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-91</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99033055630483,-17.8439081013295,0
+            145.99033055630483,-17.84389911821775,0
+            145.9903399933918,-17.84389911821775,0
+            145.9903399933918,-17.8439081013295,0
+            145.99033055630483,-17.8439081013295,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-92</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903399933918,-17.8439081013295,0
+            145.9903399933918,-17.84389911821775,0
+            145.9903494304788,-17.84389911821775,0
+            145.9903494304788,-17.8439081013295,0
+            145.9903399933918,-17.8439081013295,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-93</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903494304788,-17.8439081013295,0
+            145.9903494304788,-17.84389911821775,0
+            145.9903588675658,-17.84389911821775,0
+            145.9903588675658,-17.8439081013295,0
+            145.9903494304788,-17.8439081013295,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-94</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99035886756582,-17.8439081013295,0
+            145.99035886756582,-17.84389911821775,0
+            145.9903683046528,-17.84389911821775,0
+            145.9903683046528,-17.8439081013295,0
+            145.99035886756582,-17.8439081013295,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-95</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903683046528,-17.8439081013295,0
+            145.9903683046528,-17.84389911821775,0
+            145.9903777417398,-17.84389911821775,0
+            145.9903777417398,-17.8439081013295,0
+            145.9903683046528,-17.8439081013295,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-96</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903777417398,-17.8439081013295,0
+            145.9903777417398,-17.84389911821775,0
+            145.99038717882678,-17.84389911821775,0
+            145.99038717882678,-17.8439081013295,0
+            145.9903777417398,-17.8439081013295,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-97</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99038717882678,-17.8439081013295,0
+            145.99038717882678,-17.84389911821775,0
+            145.99039661591377,-17.84389911821775,0
+            145.99039661591377,-17.8439081013295,0
+            145.99038717882678,-17.8439081013295,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-98</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99039661591377,-17.8439081013295,0
+            145.99039661591377,-17.84389911821775,0
+            145.99040605300075,-17.84389911821775,0
+            145.99040605300075,-17.8439081013295,0
+            145.99039661591377,-17.8439081013295,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-99</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99040605300075,-17.8439081013295,0
+            145.99040605300075,-17.84389911821775,0
+            145.99041549008774,-17.84389911821775,0
+            145.99041549008774,-17.8439081013295,0
+            145.99040605300075,-17.8439081013295,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 25-100</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99041549008774,-17.8439081013295,0
+            145.99041549008774,-17.84389911821775,0
+            145.99042492717473,-17.84389911821775,0
+            145.99042492717473,-17.8439081013295,0
+            145.99041549008774,-17.8439081013295,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 100-1</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903777417398,-17.84395301688825,0
+            145.9903777417398,-17.8439440337765,0
+            145.99038717882678,-17.8439440337765,0
+            145.99038717882678,-17.84395301688825,0
+            145.9903777417398,-17.84395301688825,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 100-2</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99038717882678,-17.84395301688825,0
+            145.99038717882678,-17.8439440337765,0
+            145.99039661591377,-17.8439440337765,0
+            145.99039661591377,-17.84395301688825,0
+            145.99038717882678,-17.84395301688825,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 100-3</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99039661591377,-17.84395301688825,0
+            145.99039661591377,-17.8439440337765,0
+            145.99040605300075,-17.8439440337765,0
+            145.99040605300075,-17.84395301688825,0
+            145.99039661591377,-17.84395301688825,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 100-4</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99040605300075,-17.84395301688825,0
+            145.99040605300075,-17.8439440337765,0
+            145.99041549008774,-17.8439440337765,0
+            145.99041549008774,-17.84395301688825,0
+            145.99040605300075,-17.84395301688825,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 100-5</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99033055630483,-17.843944033776502,0
+            145.99033055630483,-17.84393505066475,0
+            145.9903399933918,-17.84393505066475,0
+            145.9903399933918,-17.843944033776502,0
+            145.99033055630483,-17.843944033776502,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 100-6</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903399933918,-17.843944033776502,0
+            145.9903399933918,-17.84393505066475,0
+            145.9903494304788,-17.84393505066475,0
+            145.9903494304788,-17.843944033776502,0
+            145.9903399933918,-17.843944033776502,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 100-7</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903494304788,-17.843944033776502,0
+            145.9903494304788,-17.84393505066475,0
+            145.9903588675658,-17.84393505066475,0
+            145.9903588675658,-17.843944033776502,0
+            145.9903494304788,-17.843944033776502,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 100-8</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.99035886756582,-17.843944033776502,0
+            145.99035886756582,-17.84393505066475,0
+            145.9903683046528,-17.84393505066475,0
+            145.9903683046528,-17.843944033776502,0
+            145.99035886756582,-17.843944033776502,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 100-9</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903683046528,-17.843944033776502,0
+            145.9903683046528,-17.84393505066475,0
+            145.9903777417398,-17.84393505066475,0
+            145.9903777417398,-17.843944033776502,0
+            145.9903683046528,-17.843944033776502,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>Square 100-10</name><Polygon><outerBoundaryIs><LinearRing><coordinates>145.9903777417398,-17.843944033776502,0
+            145.9903777417398,-17.84393505066475,0
+            145.99038717882678,-17.84393505066475,0
+            145.99038717882678,-17.843944033776502,0
+            145.9903777417398,-17.843944033776502,0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark></Document>
+</kml>
